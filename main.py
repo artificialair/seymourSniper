@@ -27,7 +27,7 @@ adapter = HTTPAdapter(max_retries=retry)
 session.mount('http://', adapter)
 session.mount('https://', adapter)
 
-webhook = DiscordWebhook("https://discord.com/api/webhooks/1101276248279363585/rMVoiZYNNwrCUcdFU7OJ3sJ8d8ZJAXRJg6P4J0aT0PYEIW4X9u2Pej2c5SKJrazDz-gf")
+webhook = DiscordWebhook(config.webhook_url)
 
 
 class AuctionThread(Thread):
