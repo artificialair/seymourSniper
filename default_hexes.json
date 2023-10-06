@@ -1,427 +1,3639 @@
 {
-  "HELMET": {
-    "ARMOR_OF_MAGMA_HELMET": "FF9300",
-    "ARMOR_OF_YOG_HELMET": "C83200",
-    "BOUNCY_HELMET": "ADFF2F",
-    "CACTUS_HELMET": "00FF00",
-    "CELESTE_HELMET": "D48EF2",
-    "CRYPT_WITHERLORD_HELMET": "450101",
-    "EMERALD_HELMET": "00FF00",
-    "FARM_ARMOR_HELMET": "FFD700",
-    "FARM_SUIT_HELMET": "FFFF00",
-    "GROWTH_HELMET": "00BE00",
-    "HEAT_HELMET": "B3B3B3",
-    "HEAVY_HELMET": "FFFFFF",
-    "HELMET_OF_THE_PACK": "FFFFFF",
-    "MINER_OUTFIT_HELMET": "7A7964",
-    "MUSHROOM_HELMET": "FF0000",
-    "PUMPKIN_HELMET": "EDAA36",
-    "RABBIT_HELMET": "CBD2DB",
-    "ROTTEN_HELMET": "9E7003",
-    "SALMON_HELMET": "C13C0F",
-    "SKELETON_GRUNT_HELMET": "E1EB34",
-    "SKELETON_MASTER_HELMET": "FF6B0B",
-    "SKELETON_SOLDIER_HELMET": "FFBC0B",
-    "SPEEDSTER_HELMET": "E0FCF7",
-    "SUPER_HEAVY_HELMET": "E6E6E6",
-    "TARANTULA_HELMET": "000000",
-    "ZOMBIE_COMMANDER_HELMET": "D51230",
-    "ZOMBIE_SOLDIER_HELMET": "D07F00"
+  "VELVET_TOP_HAT": {
+    "ARMOR_OF_MAGMA_HELMET": {
+      "name": "Armor of Magma Helmet",
+      "hex": "FF9300",
+      "lab": [
+        70.95869255332985,
+        33.259735140949765,
+        76.41202148957957
+      ]
+    },
+    "ARMOR_OF_YOG_HELMET": {
+      "name": "Yog Helmet",
+      "hex": "C83200",
+      "lab": [
+        45.02634963582857,
+        57.14372509080218,
+        57.327236417937364
+      ]
+    },
+    "BOUNCY_HELMET": {
+      "name": "Bouncy Helmet",
+      "hex": "ADFF2F",
+      "lab": [
+        91.95763180408608,
+        -52.48377737417426,
+        81.86600466545895
+      ]
+    },
+    "CACTUS_HELMET": {
+      "name": "Cactus Helmet",
+      "hex": "00FF00",
+      "lab": [
+        87.73703347354422,
+        -86.18463649762525,
+        83.18116474777854
+      ]
+    },
+    "CELESTE_HELMET": {
+      "name": "Celeste Helmet",
+      "hex": "D48EF2",
+      "lab": [
+        69.29385449698597,
+        43.512638678804564,
+        -39.865318181908435
+      ]
+    },
+    "CRYPT_WITHERLORD_HELMET": {
+      "name": "Crypt Witherlord Helmet",
+      "hex": "450101",
+      "lab": [
+        11.199097597773473,
+        30.874410563556165,
+        17.20153704937414
+      ]
+    },
+    "EMERALD_ARMOR_HELMET": {
+      "name": "Emerald Helmet",
+      "hex": "00FF00",
+      "lab": [
+        87.73703347354422,
+        -86.18463649762525,
+        83.18116474777854
+      ]
+    },
+    "FARM_ARMOR_HELMET": {
+      "name": "Farm Armor Helmet",
+      "hex": "FFD700",
+      "lab": [
+        86.9285847161576,
+        -1.9242149651027551,
+        87.1371576065337
+      ]
+    },
+    "FARM_SUIT_HELMET": {
+      "name": "Farm Suit Helmet",
+      "hex": "FFFF00",
+      "lab": [
+        97.13824698129729,
+        -21.555908334832285,
+        94.48248544644461
+      ]
+    },
+    "GROWTH_HELMET": {
+      "name": "Helmet of Growth",
+      "hex": "00BE00",
+      "lab": [
+        67.1469688808884,
+        -69.07842887859572,
+        66.67109599315299
+      ]
+    },
+    "HEAT_HELMET": {
+      "name": "Heat Helmet",
+      "hex": "B3B3B3",
+      "lab": [
+        72.94360460761935,
+        0.004033515761447948,
+        -0.007980529733631059
+      ]
+    },
+    "HEAVY_HELMET": {
+      "name": "Heavy Helmet",
+      "hex": "FFFFFF",
+      "lab": [
+        100.0,
+        0.00526049995830391,
+        -0.010408184525267927
+      ]
+    },
+    "HELMET_OF_THE_PACK": {
+      "name": "Helmet of the Pack",
+      "hex": "FFFFFF",
+      "lab": [
+        100.0,
+        0.00526049995830391,
+        -0.010408184525267927
+      ]
+    },
+    "MINER_OUTFIT_HELMET": {
+      "name": "Miner's Outfit Helmet",
+      "hex": "7A7964",
+      "lab": [
+        50.37266880379397,
+        -3.4749751775035587,
+        11.677991709800484
+      ]
+    },
+    "MUSHROOM_HELMET": {
+      "name": "Mushroom Helmet",
+      "hex": "FF0000",
+      "lab": [
+        53.23288178584245,
+        80.10930952982204,
+        67.22006831026425
+      ]
+    },
+    "PUMPKIN_HELMET": {
+      "name": "Pumpkin Helmet",
+      "hex": "EDAA36",
+      "lab": [
+        74.20276324921271,
+        14.729787515012527,
+        65.49051270333118
+      ]
+    },
+    "RABBIT_HELMET": {
+      "name": "Rabbit Helmet",
+      "hex": "CBD2DB",
+      "lab": [
+        83.91585032339349,
+        -0.6571563808060454,
+        -5.271555082050461
+      ]
+    },
+    "ROTTEN_HELMET": {
+      "name": "Rotten Helmet",
+      "hex": "9E7003",
+      "lab": [
+        50.52773045133627,
+        10.196669866535945,
+        56.541169134890154
+      ]
+    },
+    "SALMON_HELMET_NEW": {
+      "name": "Salmon Helmet",
+      "hex": "C13C0F",
+      "lab": [
+        45.08650239083344,
+        51.378506240008335,
+        52.359766120975905
+      ]
+    },
+    "SKELETON_GRUNT_HELMET": {
+      "name": "Skeleton Grunt Helmet",
+      "hex": "E1EB34",
+      "lab": [
+        89.70690088049841,
+        -23.452875140082206,
+        79.83944009827167
+      ]
+    },
+    "SKELETON_MASTER_HELMET": {
+      "name": "Skeleton Master Helmet",
+      "hex": "FF6B0B",
+      "lab": [
+        63.17686893380498,
+        52.865024518610916,
+        70.02226042981627
+      ]
+    },
+    "SKELETON_SOLDIER_HELMET": {
+      "name": "Skeleton Soldier Helmet",
+      "hex": "FFBC0B",
+      "lab": [
+        80.3203400422193,
+        12.03025737914759,
+        81.46451923995207
+      ]
+    },
+    "SPEEDSTER_HELMET": {
+      "name": "Speedster Helmet",
+      "hex": "E0FCF7",
+      "lab": [
+        96.89526361101656,
+        -9.974697320108694,
+        -0.693699535903769
+      ]
+    },
+    "SUPER_HEAVY_HELMET": {
+      "name": "Super Heavy Helmet",
+      "hex": "E6E6E6",
+      "lab": [
+        91.29298657001617,
+        0.004865644408436065,
+        -0.00962694140078657
+      ]
+    },
+    "TARANTULA_HELMET": {
+      "name": "Tarantula Helmet",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "ZOMBIE_COMMANDER_HELMET": {
+      "name": "Zombie Commander Helmet",
+      "hex": "D51230",
+      "lab": [
+        45.34818601259792,
+        69.01313562925165,
+        38.38122934958849
+      ]
+    },
+    "ZOMBIE_SOLDIER_HELMET": {
+      "name": "Zombie Soldier Helmet",
+      "hex": "D07F00",
+      "lab": [
+        60.41685447746406,
+        24.162004871133014,
+        66.698738434279
+      ]
+    }
   },
-  "CHESTPLATE": {
-    "ADAPTIVE_CHESTPLATE": "BFBCB2",
-    "ADAPTIVE_CHESTPLATE_ARCHER": "3ABE78",
-    "ADAPTIVE_CHESTPLATE_BERSERK": "FF4242",
-    "ADAPTIVE_CHESTPLATE_HEALER": "FFC234",
-    "ADAPTIVE_CHESTPLATE_MAGE": "D579FF",
-    "ADAPTIVE_CHESTPLATE_TANK": "82E3D8",
-    "ANGLER_CHESTPLATE": "0B004F",
-    "ARACHNE_CHESTPLATE": "8B0000",
-    "ARMOR_OF_MAGMA_CHESTPLATE": "FF9300",
-    "ARMOR_OF_YOG_CHESTPLATE": "C83200",
-    "AURORA_CHESTPLATE": "2841F1",
-    "BAT_PERSON_CHESTPLATE": "000000",
-    "BERSERKER_CHESTPLATE": "FFA33B",
-    "BLAZE_CHESTPLATE": "F7DA33",
-    "BOUNCY_CHESTPLATE": "ADFF2F",
-    "CACTUS_CHESTPLATE": "00FF00",
-    "CELESTE_CHESTPLATE": "FF8EDE",
-    "CHEAP_TUXEDO_CHESTPLATE": "383838",
-    "CHESTPLATE_OF_THE_PACK": "FF0000",
-    "CRIMSON_CHESTPLATE": "FF6F0C",
-    "CROPIE_CHESTPLATE": "7A2900",
-    "CRYPT_WITHERLORD_CHESTPLATE": "450101",
-    "DISINFESTOR_CHESTPLATE": "F6FF00",
-    "ELEGANT_TUXEDO_CHESTPLATE": "191919",
-    "EMERALD_CHESTPLATE": "00FF00",
-    "FALLEN_STAR_CHESTPLATE": "586158",
-    "FANCY_TUXEDO_CHESTPLATE": "332A2A",
-    "FARM_ARMOR_CHESTPLATE": "FFD700",
-    "FARM_SUIT_CHESTPLATE": "FFFF00",
-    "FERMENTO_CHESTPLATE": "58890C",
-    "FERVOR_CHESTPLATE": "F04729",
-    "FINAL_DESTINATION_CHESTPLATE": "0A0011",
-    "FLAMING_CHESTPLATE": "ED6612",
-    "FROZEN_BLAZE_CHESTPLATE": "A0DAEF",
-    "GLACITE_CHESTPLATE": "03FCF8",
-    "GOBLIN_CHESTPLATE": "37B042",
-    "GOLDORS_CHESTPLATE": "45413C",
-    "GROWTH_CHESTPLATE": "00BE00",
-    "GUARDIAN_CHESTPLATE": "117391",
-    "HEAT_CHESTPLATE": "B3B3B3",
-    "HEAVY_CHESTPLATE": "828282",
-    "HOLLOW_CHESTPLATE": "FFCB0D",
-    "HOLY_DRAGON_CHESTPLATE": "47D147",
-    "INSPIRED_CHESTPLATE": "42E3DB",
-    "KUUDRA_FOLLOWER_CHESTPLATE": "35530A",
-    "LAPIS_ARMOR_CHESTPLATE": "0000FF",
-    "LEAFLET_CHESTPLATE": "4DCC4D",
-    "MAGMA_LORD_CHESTPLATE": "6F0F08",
-    "MAXORS_CHESTPLATE": "4A14B7",
-    "MELON_CHESTPLATE": "899E20",
-    "METAL_CHESTPLATE": "D9D9D9",
-    "MINERAL_CHESTPLATE": "CCE5FF",
-    "MINER_OUTFIT_CHESTPLATE": "7A7964",
-    "MINOS_HUNTER_CHESTPLATE": "FF0A0A",
-    "MUSHROOM_CHESTPLATE": "FF0000",
-    "NECROMANCER_LORD_CHESTPLATE": "000000",
-    "NECRONS_CHESTPLATE": "E7413C",
-    "NUTCRACKER_CHESTPLATE": "FC2F3C",
-    "OBSIDIAN_CHESTPLATE": "000000",
-    "OLD_DRAGON_CHESTPLATE": "F0E6AA",
-    "ORANGE_CHESTPLATE": "FF4600",
-    "PROTECTOR_DRAGON_CHESTPLATE": "99978B",
-    "PUMPKIN_CHESTPLATE": "EDAA36",
-    "RABBIT_CHESTPLATE": "CBD2DB",
-    "RAMPART_CHESTPLATE" : "DF2E06",
-    "REAPER_CHESTPLATE": "1B1B1B",
-    "ROTTEN_CHESTPLATE": "017D31",
-    "SALMON_CHESTPLATE": "A82B76",
-    "SEA_EMPEROR_ROBES": "990D00",
-    "SEA_WALKER_CHESTPLATE": "10616E",
-    "SHADOW_ASSASSIN_CHESTPLATE": "000000",
-    "SHARK_SCALE_CHESTPLATE": "002CA6",
-    "SHIMMERING_LIGHT_TUNIC": "07031B",
-    "SKELETON_GRUNT_CHESTPLATE": "E1EB34",
-    "SKELETON_LORD_CHESTPLATE": "268105",
-    "SKELETON_MASTER_CHESTPLATE": "FF6B0B",
-    "SKELETON_SOLDIER_CHESTPLATE": "FFBC0B",
-    "SNOW_SUIT_CHESTPLATE": "FFFFFF",
-    "SPEEDSTER_CHESTPLATE": "E0FCF7",
-    "SPONGE_CHESTPLATE": "FFDC51",
-    "SPOOKY_CHESTPLATE": "606060",
-    "SQUASH_CHESTPLATE": "03430E",
-    "STARLIGHT_CHESTPLATE": "D400FF",
-    "STEEL_CHESTPLATE": "D9D9D9",
-    "STONE_CHESTPLATE": "D9D9D9",
-    "STORMS_CHESTPLATE": "1793C4",
-    "STRONG_DRAGON_CHESTPLATE": "D91E41",
-    "SUPERIOR_DRAGON_CHESTPLATE": "F2DF11",
-    "SUPER_HEAVY_CHESTPLATE": "5A6464",
-    "TARANTULA_CHESTPLATE": "000000",
-    "TERROR_CHESTPLATE": "3E05AF",
-    "THUNDER_CHESTPLATE": "24DDE5",
-    "UNSTABLE_DRAGON_CHESTPLATE": "B212E3",
-    "WATER_HYDRA_CHESTPLATE": "101555",
-    "WEREWOLF_CHESTPLATE": "1D1105",
-    "WISE_DRAGON_CHESTPLATE": "29F0E9",
-    "WITHER_CHESTPLATE": "000000",
-    "YOUNG_DRAGON_CHESTPLATE": "DDE4F0",
-    "ZOMBIE_COMMANDER_CHESTPLATE": "D51230",
-    "ZOMBIE_LORD_CHESTPLATE": "9B01C1",
-    "ZOMBIE_SOLDIER_CHESTPLATE": "D07F00"
+  "CASHMERE_JACKET": {
+    "ADAPTIVE_CHESTPLATE": {
+      "name": "Adaptive Chestplate",
+      "hex": "BFBCB2",
+      "lab": [
+        76.22683348885204,
+        -0.7308087002214636,
+        5.418058182557939
+      ]
+    },
+    "ADAPTIVE_CHESTPLATE_ARCHER": {
+      "name": "Adaptive Chestplate Archer",
+      "hex": "3ABE78",
+      "lab": [
+        68.81099689308145,
+        -51.52928430037351,
+        25.292412181400834
+      ]
+    },
+    "ADAPTIVE_CHESTPLATE_BERSERK": {
+      "name": "Adaptive Chestplate Berserk",
+      "hex": "FF4242",
+      "lab": [
+        57.60721063767291,
+        70.0192404323468,
+        43.99610538596897
+      ]
+    },
+    "ADAPTIVE_CHESTPLATE_HEALER": {
+      "name": "Adaptive Chestplate Healer",
+      "hex": "FFC234",
+      "lab": [
+        81.88790183493198,
+        9.714197332777008,
+        73.89343302232137
+      ]
+    },
+    "ADAPTIVE_CHESTPLATE_MAGE": {
+      "name": "Adaptive Chestplate Mage",
+      "hex": "D579FF",
+      "lab": [
+        65.78047907495883,
+        57.29460459609093,
+        -52.50252870989067
+      ]
+    },
+    "ADAPTIVE_CHESTPLATE_TANK": {
+      "name": "Adaptive Chestplate Tank",
+      "hex": "82E3D8",
+      "lab": [
+        84.29884852010153,
+        -31.214371477093106,
+        -3.588028095190454
+      ]
+    },
+    "ANGLER_CHESTPLATE": {
+      "name": "Angler Chestplate",
+      "hex": "0B004F",
+      "lab": [
+        5.741870766803153,
+        33.06048820169508,
+        -44.272356145914216
+      ]
+    },
+    "ARACHNE_CHESTPLATE": {
+      "name": "Arachne's Chestplate",
+      "hex": "8B0000",
+      "lab": [
+        28.084732284208997,
+        51.010406803797395,
+        41.2946561989777
+      ]
+    },
+    "ARMOR_OF_MAGMA_CHESTPLATE": {
+      "name": "Armor of Magma Chestplate",
+      "hex": "FF9300",
+      "lab": [
+        70.95869255332985,
+        33.259735140949765,
+        76.41202148957957
+      ]
+    },
+    "ARMOR_OF_YOG_CHESTPLATE": {
+      "name": "Yog Chestplate",
+      "hex": "C83200",
+      "lab": [
+        45.02634963582857,
+        57.14372509080218,
+        57.327236417937364
+      ]
+    },
+    "AURORA_CHESTPLATE": {
+      "name": "Aurora Chestplate",
+      "hex": "2841F1",
+      "lab": [
+        38.86834849055733,
+        54.00709905097437,
+        -89.03210618578848
+      ]
+    },
+    "BAT_PERSON_CHESTPLATE": {
+      "name": "Bat Person Chestplate",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "BERSERKER_CHESTPLATE": {
+      "name": "Berserker Chestplate",
+      "hex": "FFA33B",
+      "lab": [
+        74.67972588095506,
+        26.11501974277547,
+        64.76728135716245
+      ]
+    },
+    "BLAZE_CHESTPLATE": {
+      "name": "Blaze Chestplate",
+      "hex": "F7DA33",
+      "lab": [
+        87.0733098780137,
+        -5.975312194754223,
+        78.48144276727409
+      ]
+    },
+    "BOUNCY_CHESTPLATE": {
+      "name": "Bouncy Chestplate",
+      "hex": "ADFF2F",
+      "lab": [
+        91.95763180408608,
+        -52.48377737417426,
+        81.86600466545895
+      ]
+    },
+    "CACTUS_CHESTPLATE": {
+      "name": "Cactus Chestplate",
+      "hex": "00FF00",
+      "lab": [
+        87.73703347354422,
+        -86.18463649762525,
+        83.18116474777854
+      ]
+    },
+    "CELESTE_CHESTPLATE": {
+      "name": "Celeste Chestplate",
+      "hex": "FF8EDE",
+      "lab": [
+        73.46755457183569,
+        52.83236932437041,
+        -22.048612318567095
+      ]
+    },
+    "CHEAP_TUXEDO_CHESTPLATE": {
+      "name": "Cheap Tuxedo Jacket",
+      "hex": "383838",
+      "lab": [
+        23.520858600077794,
+        0.0017922368535927546,
+        -0.0035460378354112976
+      ]
+    },
+    "CHESTPLATE_OF_THE_PACK": {
+      "name": "Chestplate of the Pack",
+      "hex": "FF0000",
+      "lab": [
+        53.23288178584245,
+        80.10930952982204,
+        67.22006831026425
+      ]
+    },
+    "CRIMSON_CHESTPLATE": {
+      "name": "Crimson Chestplate",
+      "hex": "FF6F0C",
+      "lab": [
+        63.880926825022,
+        51.04755918589898,
+        70.28794825672944
+      ]
+    },
+    "CROPIE_CHESTPLATE": {
+      "name": "Cropie Chestplate",
+      "hex": "7A2900",
+      "lab": [
+        28.703753210691936,
+        33.66980595123367,
+        40.33610768860618
+      ]
+    },
+    "CRYPT_WITHERLORD_CHESTPLATE": {
+      "name": "Crypt Witherlord Chestplate",
+      "hex": "450101",
+      "lab": [
+        11.199097597773473,
+        30.874410563556165,
+        17.20153704937414
+      ]
+    },
+    "ELEGANT_TUXEDO_CHESTPLATE": {
+      "name": "Elegant Tuxedo Jacket",
+      "hex": "191919",
+      "lab": [
+        8.757010824982007,
+        0.0011227090897653058,
+        -0.002221340835867336
+      ]
+    },
+    "EMERALD_ARMOR_CHESTPLATE": {
+      "name": "Emerald Chestplate",
+      "hex": "00FF00",
+      "lab": [
+        87.73703347354422,
+        -86.18463649762525,
+        83.18116474777854
+      ]
+    },
+    "FALLEN_STAR_CHESTPLATE": {
+      "name": "Fallen Star Chestplate",
+      "hex": "586158",
+      "lab": [
+        40.128621318605326,
+        -5.414812228792004,
+        3.9399492662741897
+      ]
+    },
+    "FANCY_TUXEDO_CHESTPLATE": {
+      "name": "Fancy Tuxedo Jacket",
+      "hex": "332A2A",
+      "lab": [
+        18.03984197364406,
+        4.145419191703831,
+        1.5385568252424986
+      ]
+    },
+    "FARM_ARMOR_CHESTPLATE": {
+      "name": "Farm Armor Chestplate",
+      "hex": "FFD700",
+      "lab": [
+        86.9285847161576,
+        -1.9242149651027551,
+        87.1371576065337
+      ]
+    },
+    "FARM_SUIT_CHESTPLATE": {
+      "name": "Farm Suit Chestplate",
+      "hex": "FFFF00",
+      "lab": [
+        97.13824698129729,
+        -21.555908334832285,
+        94.48248544644461
+      ]
+    },
+    "FERMENTO_CHESTPLATE": {
+      "name": "Fermento Chestplate",
+      "hex": "58890C",
+      "lab": [
+        51.8288121346624,
+        -34.50924016454143,
+        53.23571122290931
+      ]
+    },
+    "FERVOR_CHESTPLATE": {
+      "name": "Fervor Chestplate",
+      "hex": "F04729",
+      "lab": [
+        55.2693894628063,
+        63.03902760190383,
+        53.52352029916789
+      ]
+    },
+    "FINAL_DESTINATION_CHESTPLATE": {
+      "name": "Final Destination Chestplate",
+      "hex": "0A0011",
+      "lab": [
+        0.9484635032214648,
+        5.1840596575197795,
+        -6.0692666340116554
+      ]
+    },
+    "FLAMING_CHESTPLATE": {
+      "name": "Flaming Chestplate",
+      "hex": "ED6612",
+      "lab": [
+        59.48085228971037,
+        48.675255036607524,
+        64.81956021569067
+      ]
+    },
+    "FROZEN_BLAZE_CHESTPLATE": {
+      "name": "Frozen Blaze Chestplate",
+      "hex": "A0DAEF",
+      "lab": [
+        83.88676832332368,
+        -13.515082439038096,
+        -16.22539351981185
+      ]
+    },
+    "GLACITE_CHESTPLATE": {
+      "name": "Glacite Chestplate",
+      "hex": "03FCF8",
+      "lab": [
+        90.05281997412203,
+        -48.733423169596776,
+        -12.091085043751981
+      ]
+    },
+    "GOBLIN_CHESTPLATE": {
+      "name": "Goblin Chestplate",
+      "hex": "37B042",
+      "lab": [
+        63.55410102304451,
+        -55.326469850365434,
+        45.65984367844453
+      ]
+    },
+    "TANK_WITHER_CHESTPLATE": {
+      "name": "Goldor's Chestplate",
+      "hex": "45413C",
+      "lab": [
+        27.769466346105723,
+        0.6649790315238491,
+        3.6547392935361134
+      ]
+    },
+    "GROWTH_CHESTPLATE": {
+      "name": "Chestplate of Growth",
+      "hex": "00BE00",
+      "lab": [
+        67.1469688808884,
+        -69.07842887859572,
+        66.67109599315299
+      ]
+    },
+    "GUARDIAN_CHESTPLATE": {
+      "name": "Guardian Chestplate",
+      "hex": "117391",
+      "lab": [
+        44.83632659930042,
+        -15.12169169129579,
+        -23.741447818757354
+      ]
+    },
+    "HEAT_CHESTPLATE": {
+      "name": "Heat Chestplate",
+      "hex": "B3B3B3",
+      "lab": [
+        72.94360460761935,
+        0.004033515761447948,
+        -0.007980529733631059
+      ]
+    },
+    "HEAVY_CHESTPLATE": {
+      "name": "Heavy Chestplate",
+      "hex": "828282",
+      "lab": [
+        54.36783418219778,
+        0.0031911205929380237,
+        -0.006313805196667133
+      ]
+    },
+    "HOLLOW_CHESTPLATE": {
+      "name": "Hollow Chestplate",
+      "hex": "FFCB0D",
+      "lab": [
+        83.96625401210298,
+        4.295878937448039,
+        83.86465728158244
+      ]
+    },
+    "HOLY_DRAGON_CHESTPLATE": {
+      "name": "Holy Dragon Chestplate",
+      "hex": "47D147",
+      "lab": [
+        74.44201250384658,
+        -63.044717352132686,
+        55.688993236456774
+      ]
+    },
+    "KUUDRA_FOLLOWER_CHESTPLATE": {
+      "name": "Kuudra Follower Chestplate",
+      "hex": "35530A",
+      "lab": [
+        31.727809963591923,
+        -23.297332642820635,
+        35.56558933117701
+      ]
+    },
+    "LAPIS_ARMOR_CHESTPLATE": {
+      "name": "Lapis Armor Chestplate",
+      "hex": "0000FF",
+      "lab": [
+        32.302586667249486,
+        79.19666178930935,
+        -107.86368104495168
+      ]
+    },
+    "LEAFLET_CHESTPLATE": {
+      "name": "Leaflet Tunic",
+      "hex": "4DCC4D",
+      "lab": [
+        73.08855755423653,
+        -59.45664615483254,
+        51.71545957537804
+      ]
+    },
+    "MAGMA_LORD_CHESTPLATE": {
+      "name": "Magma Lord Chestplate",
+      "hex": "6F0F08",
+      "lab": [
+        22.78802648884902,
+        40.0744442702792,
+        30.785775691087885
+      ]
+    },
+    "SPEED_WITHER_CHESTPLATE": {
+      "name": "Maxor's Chestplate",
+      "hex": "4A14B7",
+      "lab": [
+        27.777634821473896,
+        59.470187307506,
+        -73.7441434368135
+      ]
+    },
+    "MELON_CHESTPLATE": {
+      "name": "Melon Chestplate",
+      "hex": "899E20",
+      "lab": [
+        61.54740376686297,
+        -23.56540938602786,
+        57.8865290112641
+      ]
+    },
+    "METAL_CHESTPLATE": {
+      "name": "Metal Chestplate",
+      "hex": "D9D9D9",
+      "lab": [
+        86.6954164289534,
+        0.004657148567566161,
+        -0.009214421069758671
+      ]
+    },
+    "MINERAL_CHESTPLATE": {
+      "name": "Mineral Chestplate",
+      "hex": "CCE5FF",
+      "lab": [
+        89.90389106409306,
+        -2.870343998501168,
+        -15.348401253706424
+      ]
+    },
+    "MINER_OUTFIT_CHESTPLATE": {
+      "name": "Miner's Outfit Chestplate",
+      "hex": "7A7964",
+      "lab": [
+        50.37266880379397,
+        -3.4749751775035587,
+        11.677991709800484
+      ]
+    },
+    "MUSHROOM_CHESTPLATE": {
+      "name": "Mushroom Chestplate",
+      "hex": "FF0000",
+      "lab": [
+        53.23288178584245,
+        80.10930952982204,
+        67.22006831026425
+      ]
+    },
+    "NECROMANCER_LORD_CHESTPLATE": {
+      "name": "Necromancer Lord Chestplate",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "POWER_WITHER_CHESTPLATE": {
+      "name": "Necron's Chestplate",
+      "hex": "E7413C",
+      "lab": [
+        53.05414125591932,
+        62.976860684034406,
+        41.02472185073592
+      ]
+    },
+    "NUTCRACKER_CHESTPLATE": {
+      "name": "Nutcracker Chestplate",
+      "hex": "FC2F3C",
+      "lab": [
+        55.12865830772874,
+        74.17947313965462,
+        44.4200215270004
+      ]
+    },
+    "OBSIDIAN_CHESTPLATE": {
+      "name": "Obsidian Chestplate",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "OLD_DRAGON_CHESTPLATE": {
+      "name": "Old Dragon Chestplate",
+      "hex": "F0E6AA",
+      "lab": [
+        90.78956433811913,
+        -5.590067184494285,
+        30.520301320788732
+      ]
+    },
+    "ORANGE_CHESTPLATE": {
+      "name": "Orange Chestplate",
+      "hex": "FF4600",
+      "lab": [
+        57.694055508417335,
+        67.4657598842739,
+        69.02593342891446
+      ]
+    },
+    "PROTECTOR_DRAGON_CHESTPLATE": {
+      "name": "Protector Dragon Chestplate",
+      "hex": "99978B",
+      "lab": [
+        62.31265521334605,
+        -1.4757686147152116,
+        6.573570077729629
+      ]
+    },
+    "PUMPKIN_CHESTPLATE": {
+      "name": "Pumpkin Chestplate",
+      "hex": "EDAA36",
+      "lab": [
+        74.20276324921271,
+        14.729787515012527,
+        65.49051270333118
+      ]
+    },
+    "RABBIT_CHESTPLATE": {
+      "name": "Rabbit Chestplate",
+      "hex": "CBD2DB",
+      "lab": [
+        83.91585032339349,
+        -0.6571563808060454,
+        -5.271555082050461
+      ]
+    },
+    "RAMPART_CHESTPLATE": {
+      "name": "Rampart Chestplate",
+      "hex": "DF2E06",
+      "lab": [
+        49.075098377697344,
+        65.30309560975422,
+        60.11519717478686
+      ]
+    },
+    "REAPER_CHESTPLATE": {
+      "name": "Reaper Chestplate",
+      "hex": "1B1B1B",
+      "lab": [
+        9.766934231515162,
+        0.0011685082452611573,
+        -0.0023119569494189918
+      ]
+    },
+    "ROTTEN_CHESTPLATE": {
+      "name": "Rotten Chestplate",
+      "hex": "017D31",
+      "lab": [
+        45.490645976410995,
+        -46.83541578551792,
+        32.699103415907004
+      ]
+    },
+    "SALMON_CHESTPLATE_NEW": {
+      "name": "Salmon Chestplate",
+      "hex": "A82B76",
+      "lab": [
+        40.181279478093124,
+        56.62736203639992,
+        -13.43436534192638
+      ]
+    },
+    "SHADOW_ASSASSIN_CHESTPLATE": {
+      "name": "Shadow Assassin Chestplate",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "SHARK_SCALE_CHESTPLATE": {
+      "name": "Shark Scale Chestplate",
+      "hex": "002CA6",
+      "lab": [
+        25.42597759509095,
+        38.56867487650789,
+        -67.56700551611908
+      ]
+    },
+    "SHIMMERING_LIGHT_TUNIC": {
+      "name": "Shimmering Light Tunic",
+      "hex": "07031B",
+      "lab": [
+        1.7110835798405652,
+        5.651757359689174,
+        -12.124430754228676
+      ]
+    },
+    "SKELETON_GRUNT_CHESTPLATE": {
+      "name": "Skeleton Grunt Chestplate",
+      "hex": "E1EB34",
+      "lab": [
+        89.70690088049841,
+        -23.452875140082206,
+        79.83944009827167
+      ]
+    },
+    "SKELETON_LORD_CHESTPLATE": {
+      "name": "Skeleton Lord Chestplate",
+      "hex": "268105",
+      "lab": [
+        47.136154080788025,
+        -47.00167976257197,
+        49.83345104922028
+      ]
+    },
+    "SKELETON_MASTER_CHESTPLATE": {
+      "name": "Skeleton Master Chestplate",
+      "hex": "FF6B0B",
+      "lab": [
+        63.17686893380498,
+        52.865024518610916,
+        70.02226042981627
+      ]
+    },
+    "SKELETON_SOLDIER_CHESTPLATE": {
+      "name": "Skeleton Soldier Chestplate",
+      "hex": "FFBC0B",
+      "lab": [
+        80.3203400422193,
+        12.03025737914759,
+        81.46451923995207
+      ]
+    },
+    "SNOW_SUIT_CHESTPLATE": {
+      "name": "Snow Suit Chestplate",
+      "hex": "FFFFFF",
+      "lab": [
+        100.0,
+        0.00526049995830391,
+        -0.010408184525267927
+      ]
+    },
+    "SPEEDSTER_CHESTPLATE": {
+      "name": "Speedster Chestplate",
+      "hex": "E0FCF7",
+      "lab": [
+        96.89526361101656,
+        -9.974697320108694,
+        -0.693699535903769
+      ]
+    },
+    "SPONGE_CHESTPLATE": {
+      "name": "Sponge Chestplate",
+      "hex": "FFDC51",
+      "lab": [
+        88.467017525757,
+        -2.4005175862141237,
+        69.7793098470696
+      ]
+    },
+    "SPOOKY_CHESTPLATE": {
+      "name": "Spooky Chestplate",
+      "hex": "606060",
+      "lab": [
+        40.73054802899536,
+        0.002572681427087664,
+        -0.005090189759549002
+      ]
+    },
+    "SQUASH_CHESTPLATE": {
+      "name": "Squash Chestplate",
+      "hex": "03430E",
+      "lab": [
+        23.886401058984603,
+        -31.090360330558564,
+        25.689069507328853
+      ]
+    },
+    "STARLIGHT_CHESTPLATE": {
+      "name": "Starlight Chestplate",
+      "hex": "D400FF",
+      "lab": [
+        53.186226832398404,
+        92.06182158977388,
+        -72.70539842282182
+      ]
+    },
+    "STEEL_CHESTPLATE": {
+      "name": "Steel Chestplate",
+      "hex": "D9D9D9",
+      "lab": [
+        86.6954164289534,
+        0.004657148567566161,
+        -0.009214421069758671
+      ]
+    },
+    "STONE_CHESTPLATE": {
+      "name": "Stone Chestplate",
+      "hex": "D9D9D9",
+      "lab": [
+        86.6954164289534,
+        0.004657148567566161,
+        -0.009214421069758671
+      ]
+    },
+    "WISE_WITHER_CHESTPLATE": {
+      "name": "Storm's Chestplate",
+      "hex": "1793C4",
+      "lab": [
+        57.1096212763933,
+        -14.056397850803481,
+        -34.154381076491156
+      ]
+    },
+    "STRONG_DRAGON_CHESTPLATE": {
+      "name": "Strong Dragon Chestplate",
+      "hex": "D91E41",
+      "lab": [
+        47.05561335925281,
+        68.76836122357327,
+        30.477773196087576
+      ]
+    },
+    "SUPERIOR_DRAGON_CHESTPLATE": {
+      "name": "Superior Dragon Chestplate",
+      "hex": "F2DF11",
+      "lab": [
+        87.82064265802066,
+        -11.305852067751642,
+        85.73350503530742
+      ]
+    },
+    "SUPER_HEAVY_CHESTPLATE": {
+      "name": "Super Heavy Chestplate",
+      "hex": "5A6464",
+      "lab": [
+        41.544970889496845,
+        -3.832282318518204,
+        -1.3179407657634035
+      ]
+    },
+    "TARANTULA_CHESTPLATE": {
+      "name": "Tarantula Chestplate",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "TERROR_CHESTPLATE": {
+      "name": "Terror Chestplate",
+      "hex": "3E05AF",
+      "lab": [
+        24.410740230036012,
+        60.10456046720641,
+        -74.58301301721251
+      ]
+    },
+    "THUNDER_CHESTPLATE": {
+      "name": "Thunder Chestplate",
+      "hex": "24DDE5",
+      "lab": [
+        80.59687333371213,
+        -39.415453323664366,
+        -16.24656210960289
+      ]
+    },
+    "UNSTABLE_DRAGON_CHESTPLATE": {
+      "name": "Unstable Dragon Chestplate",
+      "hex": "B212E3",
+      "lab": [
+        46.23593574840758,
+        81.1696142421287,
+        -68.49354084172239
+      ]
+    },
+    "WEREWOLF_CHESTPLATE": {
+      "name": "Werewolf Chestplate",
+      "hex": "1D1105",
+      "lab": [
+        6.079748401872788,
+        3.883716251794414,
+        7.124160757492093
+      ]
+    },
+    "WISE_DRAGON_CHESTPLATE": {
+      "name": "Wise Dragon Chestplate",
+      "hex": "29F0E9",
+      "lab": [
+        86.34275245146114,
+        -46.355649910617636,
+        -9.759009476974455
+      ]
+    },
+    "WITHER_CHESTPLATE": {
+      "name": "Wither Chestplate",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "YOUNG_DRAGON_CHESTPLATE": {
+      "name": "Young Dragon Chestplate",
+      "hex": "DDE4F0",
+      "lab": [
+        90.39071476187034,
+        -0.08048808345884062,
+        -6.644486093630331
+      ]
+    },
+    "ZOMBIE_COMMANDER_CHESTPLATE": {
+      "name": "Zombie Commander Chestplate",
+      "hex": "D51230",
+      "lab": [
+        45.34818601259792,
+        69.01313562925165,
+        38.38122934958849
+      ]
+    },
+    "ZOMBIE_LORD_CHESTPLATE": {
+      "name": "Zombie Lord Chestplate",
+      "hex": "9B01C1",
+      "lab": [
+        39.31056706556311,
+        73.86430102207986,
+        -60.287468942800174
+      ]
+    },
+    "ZOMBIE_SOLDIER_CHESTPLATE": {
+      "name": "Zombie Soldier Chestplate",
+      "hex": "D07F00",
+      "lab": [
+        60.41685447746406,
+        24.162004871133014,
+        66.698738434279
+      ]
+    }
   },
-  "LEGGINGS": {
-    "ADAPTIVE_LEGGINGS": "BFBCB2",
-    "ADAPTIVE_LEGGINGS_ARCHER": "169F57",
-    "ADAPTIVE_LEGGINGS_BERSERK": "BB0000",
-    "ADAPTIVE_LEGGINGS_HEALER": "FFF7E6",
-    "ADAPTIVE_LEGGINGS_MAGE": "6E00A0",
-    "ADAPTIVE_LEGGINGS_TANK": "2AB5A5",
-    "ANGLER_LEGGINGS": "0B004F",
-    "ARACHNE_LEGGINGS": "8B0000",
-    "ARMOR_OF_MAGMA_LEGGINGS": "FF9300",
-    "ARMOR_OF_THE_RESISTANCE_LEGGINGS": "DEBC15",
-    "ARMOR_OF_YOG_LEGGINGS": "C83200",
-    "AURORA_LEGGINGS": "3F56FB",
-    "BAT_PERSON_LEGGINGS": "000000",
-    "BERSERKER_LEGGINGS": "FFB727",
-    "BLAZE_LEGGINGS": "F7DA33",
-    "BOUNCY_LEGGINGS": "ADFF2F",
-    "CACTUS_LEGGINGS": "00FF00",
-    "CELESTE_LEGGINGS": "FF8ECA",
-    "CHEAP_TUXEDO_LEGGINGS": "C7C7C7",
-    "CHICKEN_LEGGS": "FFF200",
-    "CREEPER_LEGGINGS": "7AE82C",
-    "CRIMSON_LEGGINGS": "E66105",
-    "CROPIE_LEGGINGS": "94451F",
-    "CRYPT_WITHERLORD_LEGGINGS": "450101",
-    "ELEGANT_TUXEDO_LEGGINGS": "FEFDFC",
-    "EMERALD_LEGGINGS": "00FF00",
-    "FALLEN_STAR_LEGGINGS": "586158",
-    "FANCY_TUXEDO_LEGGINGS": "D4D4D4",
-    "FARM_ARMOR_LEGGINGS": "FFD700",
-    "FARM_SUIT_LEGGINGS": "FFFF00",
-    "FEMURGROWTH_LEGGINGS": "48FF00",
-    "FERMENTO_LEGGINGS": "6A9C1B",
-    "FERVOR_LEGGINGS": "17BF89",
-    "FINAL_DESTINATION_LEGGINGS": "FF75FF",
-    "FROZEN_BLAZE_LEGGINGS": "A0DAEF",
-    "GLACITE_LEGGINGS": "03FCF8",
-    "GOBLIN_LEGGINGS": "37B042",
-    "GOLDORS_LEGGINGS": "65605A",
-    "GROWTH_LEGGINGS": "00BE00",
-    "HEAT_LEGGINGS": "B3B3B3",
-    "HEAVY_LEGGINGS": "828282",
-    "HOLLOW_LEGGINGS": "FFF6A3",
-    "HOLY_DRAGON_LEGGINGS": "47D147",
-    "KUUDRA_FOLLOWER_LEGGINGS": "35530A",
-    "LAPIS_ARMOR_LEGGINGS": "0000FF",
-    "LEAFLET_LEGGINGS": "4DCC4D",
-    "MAGMA_LORD_LEGGINGS": "6F0F08",
-    "MAXORS_LEGGINGS": "5D2FB9",
-    "MELON_LEGGINGS": "899E20",
-    "MINERAL_LEGGINGS": "CCE5FF",
-    "MINER_OUTFIT_LEGGINGS": "7A7964",
-    "MINOS_HUNTER_LEGGINGS": "FF0A0A",
-    "MOOGMA_LEGGINGS": "CE2C2C",
-    "MUSHROOM_LEGGINGS": "FF0000",
-    "MUSIC_PANTS": "04CFD3",
-    "NECROMANCER_LORD_LEGGINGS": "370147",
-    "NECRONS_LEGGINGS": "E75C3C",
-    "NUTCRACKER_LEGGINGS": "FFF9EB",
-    "OLD_DRAGON_LEGGINGS": "F0E6AA",
-    "PROTECTOR_DRAGON_LEGGINGS": "99978B",
-    "PUMPKIN_LEGGINGS": "EDAA36",
-    "RABBIT_LEGGINGS": "CBD2DB",
-    "RAMPART_LEGGINGS": "DF2E06",
-    "REAPER_LEGGINGS": "1B1B1B",
-    "ROTTEN_LEGGINGS": "017D31",
-    "SALMON_LEGGINGS": "A82B76",
-    "SEA_EMPEROR_LEGGINGS": "990D00",
-    "SEA_WALKER_LEGGINGS": "10616E",
-    "SHADOW_ASSASSIN_LEGGINGS": "000000",
-    "SHARK_SCALE_LEGGINGS": "002CA6",
-    "SHIMMERING_LIGHT_TROUSERS": "07031B",
-    "SKELETON_GRUNT_LEGGINGS": "E1EB34",
-    "SKELETON_LORD_LEGGINGS": "268105",
-    "SKELETON_MASTER_LEGGINGS": "FF6B0B",
-    "SKELETON_SOLDIER_LEGGINGS": "FFBC0B",
-    "SNOW_SUIT_LEGGINGS": "FFFFFF",
-    "SPEEDSTER_LEGGINGS": "E0FCF7",
-    "SPONGE_LEGGINGS": "FFDC51",
-    "SPOOKY_LEGGINGS": "606060",
-    "SQUASH_LEGGINGS": "0C4A16",
-    "STORMS_LEGGINGS": "17A8C4",
-    "STRONG_DRAGON_LEGGINGS": "E09419",
-    "SUPERIOR_DRAGON_LEGGINGS": "F2DF11",
-    "SUPER_HEAVY_LEGGINGS": "5A6464",
-    "TARANTULA_LEGGINGS": "000000",
-    "TERROR_LEGGINGS": "5D23D1",
-    "THUNDER_LEGGINGS": "24DDE5",
-    "UNSTABLE_DRAGON_LEGGINGS": "B212E3",
-    "WATER_HYDRA_LEGGINGS": "101555",
-    "WEREWOLF_LEGGINGS": "1D1105",
-    "WISE_DRAGON_LEGGINGS": "29F0E9",
-    "WITHER_LEGGINGS": "000000",
-    "WYLD_LEGGINGS": "35B73B",
-    "YOUNG_DRAGON_LEGGINGS": "DDE4F0",
-    "ZOMBIE_COMMANDER_LEGGINGS": "D51230",
-    "ZOMBIE_LORD_LEGGINGS": "9B01C1",
-    "ZOMBIE_SOLDIER_LEGGINGS": "D07F00"
+  "SATIN_TROUSERS": {
+    "ADAPTIVE_LEGGINGS": {
+      "name": "Adaptive Leggings",
+      "hex": "BFBCB2",
+      "lab": [
+        76.22683348885204,
+        -0.7308087002214636,
+        5.418058182557939
+      ]
+    },
+    "ADAPTIVE_LEGGINGS_ARCHER": {
+      "name": "Adaptive Leggings Archer",
+      "hex": "169F57",
+      "lab": [
+        57.708087589748175,
+        -50.85375412112042,
+        28.080314497958405
+      ]
+    },
+    "ADAPTIVE_LEGGINGS_BERSERK": {
+      "name": "Adaptive Leggings Berserk",
+      "hex": "BB0000",
+      "lab": [
+        38.8375892024502,
+        63.45252853806011,
+        53.24322056401499
+      ]
+    },
+    "ADAPTIVE_LEGGINGS_HEALER": {
+      "name": "Adaptive Leggings Healer",
+      "hex": "FFF7E6",
+      "lab": [
+        97.42801177183108,
+        -0.14715419890087844,
+        9.107238021520669
+      ]
+    },
+    "ADAPTIVE_LEGGINGS_MAGE": {
+      "name": "Adaptive Leggings Mage",
+      "hex": "6E00A0",
+      "lab": [
+        29.03868450134825,
+        61.9919524349935,
+        -57.652105313782556
+      ]
+    },
+    "ADAPTIVE_LEGGINGS_TANK": {
+      "name": "Adaptive Leggings Tank",
+      "hex": "2AB5A5",
+      "lab": [
+        66.71552198382689,
+        -39.321148233783575,
+        -2.181058796731472
+      ]
+    },
+    "ANGLER_LEGGINGS": {
+      "name": "Angler Leggings",
+      "hex": "0B004F",
+      "lab": [
+        5.741870766803153,
+        33.06048820169508,
+        -44.272356145914216
+      ]
+    },
+    "ARACHNE_LEGGINGS": {
+      "name": "Arachne's Leggings",
+      "hex": "8B0000",
+      "lab": [
+        28.084732284208997,
+        51.010406803797395,
+        41.2946561989777
+      ]
+    },
+    "ARMOR_OF_MAGMA_LEGGINGS": {
+      "name": "Armor of Magma Leggings",
+      "hex": "FF9300",
+      "lab": [
+        70.95869255332985,
+        33.259735140949765,
+        76.41202148957957
+      ]
+    },
+    "ARMOR_OF_THE_RESISTANCE_LEGGINGS": {
+      "name": "Leggings of the Rising Sun",
+      "hex": "DEBC15",
+      "lab": [
+        77.01108526475089,
+        -2.0674666676954723,
+        76.190558789332
+      ]
+    },
+    "ARMOR_OF_YOG_LEGGINGS": {
+      "name": "Yog Leggings",
+      "hex": "C83200",
+      "lab": [
+        45.02634963582857,
+        57.14372509080218,
+        57.327236417937364
+      ]
+    },
+    "AURORA_LEGGINGS": {
+      "name": "Aurora Leggings",
+      "hex": "3F56FB",
+      "lab": [
+        45.18910527204223,
+        46.881700635861165,
+        -84.19239904131865
+      ]
+    },
+    "BAT_PERSON_LEGGINGS": {
+      "name": "Bat Person Leggings",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "BERSERKER_LEGGINGS": {
+      "name": "Berserker Leggings",
+      "hex": "FFB727",
+      "lab": [
+        79.19851983458076,
+        15.07121617522622,
+        75.42065380811435
+      ]
+    },
+    "BLAZE_LEGGINGS": {
+      "name": "Blaze Leggings",
+      "hex": "F7DA33",
+      "lab": [
+        87.0733098780137,
+        -5.975312194754223,
+        78.48144276727409
+      ]
+    },
+    "BOUNCY_LEGGINGS": {
+      "name": "Bouncy Leggings",
+      "hex": "ADFF2F",
+      "lab": [
+        91.95763180408608,
+        -52.48377737417426,
+        81.86600466545895
+      ]
+    },
+    "CACTUS_LEGGINGS": {
+      "name": "Cactus Leggings",
+      "hex": "00FF00",
+      "lab": [
+        87.73703347354422,
+        -86.18463649762525,
+        83.18116474777854
+      ]
+    },
+    "CELESTE_LEGGINGS": {
+      "name": "Celeste Leggings",
+      "hex": "FF8ECA",
+      "lab": [
+        72.80639015021579,
+        49.84939823093731,
+        -12.023189167944448
+      ]
+    },
+    "CHEAP_TUXEDO_LEGGINGS": {
+      "name": "Cheap Tuxedo Pants",
+      "hex": "C7C7C7",
+      "lab": [
+        80.24281925177407,
+        0.004364528850553384,
+        -0.008635457086270115
+      ]
+    },
+    "CHICKEN_LEGGS": {
+      "name": "Chicken Leggs",
+      "hex": "FFF200",
+      "lab": [
+        93.7814383494911,
+        -15.318449194642536,
+        92.03888526185301
+      ]
+    },
+    "CREEPER_LEGGINGS": {
+      "name": "Creeper Pants",
+      "hex": "7AE82C",
+      "lab": [
+        82.9307800115649,
+        -60.23724431236266,
+        73.65713762263711
+      ]
+    },
+    "CRIMSON_LEGGINGS": {
+      "name": "Crimson Leggings",
+      "hex": "E66105",
+      "lab": [
+        57.44703094299811,
+        48.287341503939764,
+        65.58639409261184
+      ]
+    },
+    "CROPIE_LEGGINGS": {
+      "name": "Cropie Leggings",
+      "hex": "94451F",
+      "lab": [
+        38.98646096716585,
+        30.69510453633198,
+        37.33504572270974
+      ]
+    },
+    "CRYPT_WITHERLORD_LEGGINGS": {
+      "name": "Crypt Witherlord Leggings",
+      "hex": "450101",
+      "lab": [
+        11.199097597773473,
+        30.874410563556165,
+        17.20153704937414
+      ]
+    },
+    "ELEGANT_TUXEDO_LEGGINGS": {
+      "name": "Elegant Tuxedo Pants",
+      "hex": "FEFDFC",
+      "lab": [
+        99.35832747476049,
+        0.16060979781867823,
+        0.5829489953138367
+      ]
+    },
+    "EMERALD_ARMOR_LEGGINGS": {
+      "name": "Emerald Leggings",
+      "hex": "00FF00",
+      "lab": [
+        87.73703347354422,
+        -86.18463649762525,
+        83.18116474777854
+      ]
+    },
+    "FALLEN_STAR_LEGGINGS": {
+      "name": "Fallen Star Leggings",
+      "hex": "586158",
+      "lab": [
+        40.128621318605326,
+        -5.414812228792004,
+        3.9399492662741897
+      ]
+    },
+    "FANCY_TUXEDO_LEGGINGS": {
+      "name": "Fancy Tuxedo Pants",
+      "hex": "D4D4D4",
+      "lab": [
+        84.91345128793334,
+        0.004576337985284784,
+        -0.009054532949037686
+      ]
+    },
+    "FARM_ARMOR_LEGGINGS": {
+      "name": "Farm Armor Leggings",
+      "hex": "FFD700",
+      "lab": [
+        86.9285847161576,
+        -1.9242149651027551,
+        87.1371576065337
+      ]
+    },
+    "FARM_SUIT_LEGGINGS": {
+      "name": "Farm Suit Leggings",
+      "hex": "FFFF00",
+      "lab": [
+        97.13824698129729,
+        -21.555908334832285,
+        94.48248544644461
+      ]
+    },
+    "FEMURGROWTH_LEGGINGS": {
+      "name": "Femurgrowth Leggings",
+      "hex": "48FF00",
+      "lab": [
+        88.39891037622999,
+        -80.26075923640596,
+        83.9888701119466
+      ]
+    },
+    "FERMENTO_LEGGINGS": {
+      "name": "Fermento Leggings",
+      "hex": "6A9C1B",
+      "lab": [
+        58.900425087908914,
+        -35.55455928892909,
+        56.19348752041993
+      ]
+    },
+    "FERVOR_LEGGINGS": {
+      "name": "Fervor Leggings",
+      "hex": "17BF89",
+      "lab": [
+        68.93190349056482,
+        -52.268556209592695,
+        16.286154883655456
+      ]
+    },
+    "FINAL_DESTINATION_LEGGINGS": {
+      "name": "Final Destination Leggings",
+      "hex": "FF75FF",
+      "lab": [
+        70.31762014353146,
+        69.92367021102625,
+        -44.99795695571327
+      ]
+    },
+    "FROZEN_BLAZE_LEGGINGS": {
+      "name": "Frozen Blaze Leggings",
+      "hex": "A0DAEF",
+      "lab": [
+        83.88676832332368,
+        -13.515082439038096,
+        -16.22539351981185
+      ]
+    },
+    "GLACITE_LEGGINGS": {
+      "name": "Glacite Leggings",
+      "hex": "03FCF8",
+      "lab": [
+        90.05281997412203,
+        -48.733423169596776,
+        -12.091085043751981
+      ]
+    },
+    "GOBLIN_LEGGINGS": {
+      "name": "Goblin Leggings",
+      "hex": "37B042",
+      "lab": [
+        63.55410102304451,
+        -55.326469850365434,
+        45.65984367844453
+      ]
+    },
+    "TANK_WITHER_LEGGINGS": {
+      "name": "Goldor's Leggings",
+      "hex": "65605A",
+      "lab": [
+        41.00976263438368,
+        0.8139325327159441,
+        4.12952575059875
+      ]
+    },
+    "GROWTH_LEGGINGS": {
+      "name": "Leggings of Growth",
+      "hex": "00BE00",
+      "lab": [
+        67.1469688808884,
+        -69.07842887859572,
+        66.67109599315299
+      ]
+    },
+    "HEAT_LEGGINGS": {
+      "name": "Heat Leggings",
+      "hex": "B3B3B3",
+      "lab": [
+        72.94360460761935,
+        0.004033515761447948,
+        -0.007980529733631059
+      ]
+    },
+    "HEAVY_LEGGINGS": {
+      "name": "Heavy Leggings",
+      "hex": "828282",
+      "lab": [
+        54.36783418219778,
+        0.0031911205929380237,
+        -0.006313805196667133
+      ]
+    },
+    "HOLLOW_LEGGINGS": {
+      "name": "Hollow Leggings",
+      "hex": "FFF6A3",
+      "lab": [
+        95.92034218505826,
+        -8.748562758141176,
+        41.03977195905817
+      ]
+    },
+    "HOLY_DRAGON_LEGGINGS": {
+      "name": "Holy Dragon Leggings",
+      "hex": "47D147",
+      "lab": [
+        74.44201250384658,
+        -63.044717352132686,
+        55.688993236456774
+      ]
+    },
+    "KUUDRA_FOLLOWER_LEGGINGS": {
+      "name": "Kuudra Follower Leggings",
+      "hex": "35530A",
+      "lab": [
+        31.727809963591923,
+        -23.297332642820635,
+        35.56558933117701
+      ]
+    },
+    "LAPIS_ARMOR_LEGGINGS": {
+      "name": "Lapis Armor Leggings",
+      "hex": "0000FF",
+      "lab": [
+        32.302586667249486,
+        79.19666178930935,
+        -107.86368104495168
+      ]
+    },
+    "LEAFLET_LEGGINGS": {
+      "name": "Leaflet Pants",
+      "hex": "4DCC4D",
+      "lab": [
+        73.08855755423653,
+        -59.45664615483254,
+        51.71545957537804
+      ]
+    },
+    "MAGMA_LORD_LEGGINGS": {
+      "name": "Magma Lord Leggings",
+      "hex": "6F0F08",
+      "lab": [
+        22.78802648884902,
+        40.0744442702792,
+        30.785775691087885
+      ]
+    },
+    "SPEED_WITHER_LEGGINGS": {
+      "name": "Maxor's Leggings",
+      "hex": "5D2FB9",
+      "lab": [
+        33.695855917065245,
+        51.64843671746358,
+        -65.10639469108503
+      ]
+    },
+    "MELON_LEGGINGS": {
+      "name": "Melon Leggings",
+      "hex": "899E20",
+      "lab": [
+        61.54740376686297,
+        -23.56540938602786,
+        57.8865290112641
+      ]
+    },
+    "MINERAL_LEGGINGS": {
+      "name": "Mineral Leggings",
+      "hex": "CCE5FF",
+      "lab": [
+        89.90389106409306,
+        -2.870343998501168,
+        -15.348401253706424
+      ]
+    },
+    "MINER_OUTFIT_LEGGINGS": {
+      "name": "Miner's Outfit Leggings",
+      "hex": "7A7964",
+      "lab": [
+        50.37266880379397,
+        -3.4749751775035587,
+        11.677991709800484
+      ]
+    },
+    "MOOGMA_LEGGINGS": {
+      "name": "Moogma Leggings",
+      "hex": "CE2C2C",
+      "lab": [
+        45.77770974370359,
+        61.62341297899254,
+        40.66816649614179
+      ]
+    },
+    "MUSHROOM_LEGGINGS": {
+      "name": "Mushroom Leggings",
+      "hex": "FF0000",
+      "lab": [
+        53.23288178584245,
+        80.10930952982204,
+        67.22006831026425
+      ]
+    },
+    "MUSIC_PANTS": {
+      "name": "Stereo Pants",
+      "hex": "04CFD3",
+      "lab": [
+        75.67140573173448,
+        -39.779532310247504,
+        -14.0289046322861
+      ]
+    },
+    "NECROMANCER_LORD_LEGGINGS": {
+      "name": "Necromancer Lord Leggings",
+      "hex": "370147",
+      "lab": [
+        11.197387610913921,
+        35.77714736556786,
+        -29.49533363448582
+      ]
+    },
+    "POWER_WITHER_LEGGINGS": {
+      "name": "Necron's Leggings",
+      "hex": "E75C3C",
+      "lab": [
+        57.04565336522393,
+        52.18616215889943,
+        45.39189723787883
+      ]
+    },
+    "NUTCRACKER_LEGGINGS": {
+      "name": "Nutcracker Leggings",
+      "hex": "FFF9EB",
+      "lab": [
+        98.0373282085943,
+        -0.3497421694789171,
+        7.4111206805332674
+      ]
+    },
+    "OLD_DRAGON_LEGGINGS": {
+      "name": "Old Dragon Leggings",
+      "hex": "F0E6AA",
+      "lab": [
+        90.78956433811913,
+        -5.590067184494285,
+        30.520301320788732
+      ]
+    },
+    "PROTECTOR_DRAGON_LEGGINGS": {
+      "name": "Protector Dragon Leggings",
+      "hex": "99978B",
+      "lab": [
+        62.31265521334605,
+        -1.4757686147152116,
+        6.573570077729629
+      ]
+    },
+    "PUMPKIN_LEGGINGS": {
+      "name": "Pumpkin Leggings",
+      "hex": "EDAA36",
+      "lab": [
+        74.20276324921271,
+        14.729787515012527,
+        65.49051270333118
+      ]
+    },
+    "RABBIT_LEGGINGS": {
+      "name": "Rabbit Leggings",
+      "hex": "CBD2DB",
+      "lab": [
+        83.91585032339349,
+        -0.6571563808060454,
+        -5.271555082050461
+      ]
+    },
+    "RAMPART_LEGGINGS": {
+      "name": "Rampart Leggings",
+      "hex": "DF2E06",
+      "lab": [
+        49.075098377697344,
+        65.30309560975422,
+        60.11519717478686
+      ]
+    },
+    "REAPER_LEGGINGS": {
+      "name": "Reaper Leggings",
+      "hex": "1B1B1B",
+      "lab": [
+        9.766934231515162,
+        0.0011685082452611573,
+        -0.0023119569494189918
+      ]
+    },
+    "ROTTEN_LEGGINGS": {
+      "name": "Rotten Leggings",
+      "hex": "017D31",
+      "lab": [
+        45.490645976410995,
+        -46.83541578551792,
+        32.699103415907004
+      ]
+    },
+    "SALMON_LEGGINGS_NEW": {
+      "name": "Salmon Leggings",
+      "hex": "A82B76",
+      "lab": [
+        40.181279478093124,
+        56.62736203639992,
+        -13.43436534192638
+      ]
+    },
+    "SHADOW_ASSASSIN_LEGGINGS": {
+      "name": "Shadow Assassin Leggings",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "SHARK_SCALE_LEGGINGS": {
+      "name": "Shark Scale Leggings",
+      "hex": "002CA6",
+      "lab": [
+        25.42597759509095,
+        38.56867487650789,
+        -67.56700551611908
+      ]
+    },
+    "SHIMMERING_LIGHT_TROUSERS": {
+      "name": "Shimmering Light Trousers",
+      "hex": "07031B",
+      "lab": [
+        1.7110835798405652,
+        5.651757359689174,
+        -12.124430754228676
+      ]
+    },
+    "SKELETON_GRUNT_LEGGINGS": {
+      "name": "Skeleton Grunt Leggings",
+      "hex": "E1EB34",
+      "lab": [
+        89.70690088049841,
+        -23.452875140082206,
+        79.83944009827167
+      ]
+    },
+    "SKELETON_LORD_LEGGINGS": {
+      "name": "Skeleton Lord Leggings",
+      "hex": "268105",
+      "lab": [
+        47.136154080788025,
+        -47.00167976257197,
+        49.83345104922028
+      ]
+    },
+    "SKELETON_MASTER_LEGGINGS": {
+      "name": "Skeleton Master Leggings",
+      "hex": "FF6B0B",
+      "lab": [
+        63.17686893380498,
+        52.865024518610916,
+        70.02226042981627
+      ]
+    },
+    "SKELETON_SOLDIER_LEGGINGS": {
+      "name": "Skeleton Soldier Leggings",
+      "hex": "FFBC0B",
+      "lab": [
+        80.3203400422193,
+        12.03025737914759,
+        81.46451923995207
+      ]
+    },
+    "SNOW_SUIT_LEGGINGS": {
+      "name": "Snow Suit Leggings",
+      "hex": "FFFFFF",
+      "lab": [
+        100.0,
+        0.00526049995830391,
+        -0.010408184525267927
+      ]
+    },
+    "SPEEDSTER_LEGGINGS": {
+      "name": "Speedster Leggings",
+      "hex": "E0FCF7",
+      "lab": [
+        96.89526361101656,
+        -9.974697320108694,
+        -0.693699535903769
+      ]
+    },
+    "SPONGE_LEGGINGS": {
+      "name": "Sponge Leggings",
+      "hex": "FFDC51",
+      "lab": [
+        88.467017525757,
+        -2.4005175862141237,
+        69.7793098470696
+      ]
+    },
+    "SPOOKY_LEGGINGS": {
+      "name": "Spooky Leggings",
+      "hex": "606060",
+      "lab": [
+        40.73054802899536,
+        0.002572681427087664,
+        -0.005090189759549002
+      ]
+    },
+    "SQUASH_LEGGINGS": {
+      "name": "Squash Leggings",
+      "hex": "0C4A16",
+      "lab": [
+        26.830415774626616,
+        -31.205357320654354,
+        25.001977309689057
+      ]
+    },
+    "WISE_WITHER_LEGGINGS": {
+      "name": "Storm's Leggings",
+      "hex": "17A8C4",
+      "lab": [
+        63.48556363110323,
+        -25.183243055135364,
+        -24.288617592755468
+      ]
+    },
+    "STRONG_DRAGON_LEGGINGS": {
+      "name": "Strong Dragon Leggings",
+      "hex": "E09419",
+      "lab": [
+        67.34995765208028,
+        20.07145910562419,
+        68.05623857780972
+      ]
+    },
+    "SUPERIOR_DRAGON_LEGGINGS": {
+      "name": "Superior Dragon Leggings",
+      "hex": "F2DF11",
+      "lab": [
+        87.82064265802066,
+        -11.305852067751642,
+        85.73350503530742
+      ]
+    },
+    "SUPER_HEAVY_LEGGINGS": {
+      "name": "Super Heavy Leggings",
+      "hex": "5A6464",
+      "lab": [
+        41.544970889496845,
+        -3.832282318518204,
+        -1.3179407657634035
+      ]
+    },
+    "TARANTULA_LEGGINGS": {
+      "name": "Tarantula Leggings",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "TERROR_LEGGINGS": {
+      "name": "Terror Leggings",
+      "hex": "5D23D1",
+      "lab": [
+        34.25767034431363,
+        62.99182749545443,
+        -78.23693419893017
+      ]
+    },
+    "THUNDER_LEGGINGS": {
+      "name": "Thunder Leggings",
+      "hex": "24DDE5",
+      "lab": [
+        80.59687333371213,
+        -39.415453323664366,
+        -16.24656210960289
+      ]
+    },
+    "UNSTABLE_DRAGON_LEGGINGS": {
+      "name": "Unstable Dragon Leggings",
+      "hex": "B212E3",
+      "lab": [
+        46.23593574840758,
+        81.1696142421287,
+        -68.49354084172239
+      ]
+    },
+    "WEREWOLF_LEGGINGS": {
+      "name": "Werewolf Leggings",
+      "hex": "1D1105",
+      "lab": [
+        6.079748401872788,
+        3.883716251794414,
+        7.124160757492093
+      ]
+    },
+    "WISE_DRAGON_LEGGINGS": {
+      "name": "Wise Dragon Leggings",
+      "hex": "29F0E9",
+      "lab": [
+        86.34275245146114,
+        -46.355649910617636,
+        -9.759009476974455
+      ]
+    },
+    "WITHER_LEGGINGS": {
+      "name": "Wither Leggings",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "WYLD_LEGGINGS": {
+      "name": "Wyld Leggings",
+      "hex": "35B73B",
+      "lab": [
+        65.70163156274637,
+        -58.83174078255754,
+        51.0216042519708
+      ]
+    },
+    "YOUNG_DRAGON_LEGGINGS": {
+      "name": "Young Dragon Leggings",
+      "hex": "DDE4F0",
+      "lab": [
+        90.39071476187034,
+        -0.08048808345884062,
+        -6.644486093630331
+      ]
+    },
+    "ZOMBIE_COMMANDER_LEGGINGS": {
+      "name": "Zombie Commander Leggings",
+      "hex": "D51230",
+      "lab": [
+        45.34818601259792,
+        69.01313562925165,
+        38.38122934958849
+      ]
+    },
+    "ZOMBIE_LORD_LEGGINGS": {
+      "name": "Zombie Lord Leggings",
+      "hex": "9B01C1",
+      "lab": [
+        39.31056706556311,
+        73.86430102207986,
+        -60.287468942800174
+      ]
+    },
+    "ZOMBIE_SOLDIER_LEGGINGS": {
+      "name": "Zombie Soldier Leggings",
+      "hex": "D07F00",
+      "lab": [
+        60.41685447746406,
+        24.162004871133014,
+        66.698738434279
+      ]
+    }
   },
-  "BOOTS": {
-    "ADAPTIVE_BOOTS": "BFBCB2",
-    "ADAPTIVE_BOOTS_ARCHER": "169F57",
-    "ADAPTIVE_BOOTS_BERSERK": "BB0000",
-    "ADAPTIVE_BOOTS_HEALER": "FFF7E6",
-    "ADAPTIVE_BOOTS_MAGE": "6E00A0",
-    "ADAPTIVE_BOOTS_TANK": "2AB5A5",
-    "ANGLER_BOOTS": "0B004F",
-    "ARACHNE_BOOTS": "8B0000",
-    "ARMOR_OF_MAGMA_BOOTS": "FF9300",
-    "ARMOR_OF_THE_RESISTANCE_BOOTS": "9F8609",
-    "ARMOR_OF_YOG_BOOTS": "C83200",
-    "AURORA_BOOTS": "6184FC",
-    "BAT_PERSON_BOOTS": "000000",
-    "BERSERKER_BOOTS": "FFD427",
-    "BLAZE_BOOTS": "F7DA33",
-    "BOUNCY_BOOTS": "ADFF2F",
-    "CACTUS_BOOTS": "00FF00",
-    "CELESTE_BOOTS": "FF8EB6",
-    "CHEAP_TUXEDO_BOOTS": "383838",
-    "CRIMSON_BOOTS": "E65300",
-    "CROPIE_BOOTS": "BB6535",
-    "CRYPT_WITHERLORD_BOOTS": "450101",
-    "ELEGANT_TUXEDO_BOOTS": "191919",
-    "EMERALD_BOOTS": "00FF00",
-    "EXCEEDINGLY_COMFY_SNEAKERS": "380024",
-    "FALLEN_STAR_BOOTS": "586158",
-    "FANCY_TUXEDO_BOOTS": "332A2A",
-    "FARMER_BOOTS": "CC5500",
-    "FARM_ARMOR_BOOTS": "FFD700",
-    "FARM_SUIT_BOOTS": "FFFF00",
-    "FERMENTO_BOOTS": "83B03B",
-    "FERVOR_BOOTS": "07A674",
-    "FINAL_DESTINATION_BOOTS": "0A0011",
-    "FROZEN_BLAZE_BOOTS": "A0DAEF",
-    "GHOST_BOOTS": "808080",
-    "GLACITE_BOOTS": "03FCF8",
-    "GOBLIN_BOOTS": "37B042",
-    "GOLDORS_BOOTS": "88837E",
-    "GROWTH_BOOTS": "00BE00",
-    "GUNTHER_SNEAKERS": "4F2886",
-    "HEAT_BOOTS": "B3B3B3",
-    "HEAVY_BOOTS": "FFFFFF",
-    "HOLLOW_BOOTS": "E3FFFA",
-    "HOLY_DRAGON_BOOTS": "47D147",
-    "KUUDRA_FOLLOWER_BOOTS": "35530A",
-    "LAPIS_ARMOR_BOOTS": "0000FF",
-    "LEAFLET_BOOTS": "4DCC4D",
-    "MAGMA_LORD_BOOTS": "6F0F08",
-    "MAXORS_BOOTS": "8969C8",
-    "MELON_BOOTS": "899E20",
-    "MERCENARY_BOOTS": "E0FCF7",
-    "MINERAL_BOOTS": "CCE5FF",
-    "MINER_OUTFIT_BOOTS": "7A7964",
-    "MINOS_HUNTER_BOOTS": "304B4E",
-    "MUSHROOM_BOOTS": "FF0000",
-    "NECROMANCER_LORD_BOOTS": "400352",
-    "NECRONS_BOOTS": "E76E3C",
-    "NUTCRACKER_BOOTS": "46343A",
-    "OLD_DRAGON_BOOTS": "F0E6AA",
-    "PROTECTOR_DRAGON_BOOTS": "99978B",
-    "PUMPKIN_BOOTS": "EDAA36",
-    "RABBIT_BOOTS": "CBD2DB",
-    "RANCHERS_BOOTS": "000000",
-    "RAMPART_BOOTS": "DF2E06",
-    "REAPER_BOOTS": "1B1B1B",
-    "ROTTEN_BOOTS": "9E7003",
-    "SALMON_BOOTS": "C13C0F",
-    "SEA_EMPEROR_SHOES": "990D00",
-    "SEA_WALKER_BOOTS": "10616E",
-    "SHADOW_ASSASSIN_BOOTS": "000000",
-    "SHARK_SCALE_BOOTS": "002CA6",
-    "SHIMMERING_LIGHT_SLIPPERS": "07031B",
-    "SKELETON_GRUNT_BOOTS": "E1EB34",
-    "SKELETON_LORD_BOOTS": "268105",
-    "SKELETON_MASTER_BOOTS": "FF6B0B",
-    "SKELETON_SOLDIER_BOOTS": "FFBC0B",
-    "SLUG_BOOTS": "276114",
-    "SNAKE_IN_A_BOOT": "1A004C",
-    "SNOW_SUIT_BOOTS": "FFFFFF",
-    "SPEEDSTER_BOOTS": "E0FCF7",
-    "SPONGE_BOOTS": "FFDC51",
-    "SPOOKY_BOOTS": "606060",
-    "SQUASH_BOOTS": "13561E",
-    "SQUID_BOOTS": "000000",
-    "SQUIRE_BOOTS": "545454",
-    "STARLIGHT_BOOTS": "D400FF",
-    "STRONG_DRAGON_BOOTS": "F0D124",
-    "STORMS_BOOTS": "1CD4E4",
-    "SUPERIOR_DRAGON_BOOTS": "F25D18",
-    "SUPER_HEAVY_BOOTS": "E6E6E6",
-    "TARANTULA_BOOTS": "000000",
-    "TERROR_BOOTS": "7C44EC",
-    "THORNS_BOOTS": "BFBFBF",
-    "THUNDER_BOOTS": "24DDE5",
-    "UNSTABLE_DRAGON_BOOTS": "B212E3",
-    "WATER_HYDRA_BOOTS": "101555",
-    "WEREWOLF_BOOTS": "1D1105",
-    "WISE_DRAGON_BOOTS": "29F0E9",
-    "WITHER_BOOTS": "000000",
-    "WYLD_BOOTS": "154918",
-    "YOUNG_DRAGON_BOOTS": "DDE4F0",
-    "ZOMBIE_COMMANDER_BOOTS": "D51230",
-    "ZOMBIE_LORD_BOOTS": "9B01C1",
-    "ZOMBIE_SOLDIER_BOOTS": "D07F00"
+  "OXFORD_SHOES": {
+    "ADAPTIVE_BOOTS": {
+      "name": "Adaptive Boots",
+      "hex": "BFBCB2",
+      "lab": [
+        76.22683348885204,
+        -0.7308087002214636,
+        5.418058182557939
+      ]
+    },
+    "ADAPTIVE_BOOTS_ARCHER": {
+      "name": "Adaptive Boots Archer",
+      "hex": "169F57",
+      "lab": [
+        57.708087589748175,
+        -50.85375412112042,
+        28.080314497958405
+      ]
+    },
+    "ADAPTIVE_BOOTS_BERSERK": {
+      "name": "Adaptive Boots Berserk",
+      "hex": "BB0000",
+      "lab": [
+        38.8375892024502,
+        63.45252853806011,
+        53.24322056401499
+      ]
+    },
+    "ADAPTIVE_BOOTS_HEALER": {
+      "name": "Adaptive Boots Healer",
+      "hex": "FFF7E6",
+      "lab": [
+        97.42801177183108,
+        -0.14715419890087844,
+        9.107238021520669
+      ]
+    },
+    "ADAPTIVE_BOOTS_MAGE": {
+      "name": "Adaptive Boots Mage",
+      "hex": "6E00A0",
+      "lab": [
+        29.03868450134825,
+        61.9919524349935,
+        -57.652105313782556
+      ]
+    },
+    "ADAPTIVE_BOOTS_TANK": {
+      "name": "Adaptive Boots Tank",
+      "hex": "2AB5A5",
+      "lab": [
+        66.71552198382689,
+        -39.321148233783575,
+        -2.181058796731472
+      ]
+    },
+    "ANGLER_BOOTS": {
+      "name": "Angler Boots",
+      "hex": "0B004F",
+      "lab": [
+        5.741870766803153,
+        33.06048820169508,
+        -44.272356145914216
+      ]
+    },
+    "ARACHNE_BOOTS": {
+      "name": "Arachne's Boots",
+      "hex": "8B0000",
+      "lab": [
+        28.084732284208997,
+        51.010406803797395,
+        41.2946561989777
+      ]
+    },
+    "ARMOR_OF_MAGMA_BOOTS": {
+      "name": "Armor of Magma Boots",
+      "hex": "FF9300",
+      "lab": [
+        70.95869255332985,
+        33.259735140949765,
+        76.41202148957957
+      ]
+    },
+    "ARMOR_OF_THE_RESISTANCE_BOOTS": {
+      "name": "Boots of the Rising Sun",
+      "hex": "9F8609",
+      "lab": [
+        56.52650230635351,
+        -1.613351370297167,
+        59.856455833530454
+      ]
+    },
+    "ARMOR_OF_YOG_BOOTS": {
+      "name": "Yog Boots",
+      "hex": "C83200",
+      "lab": [
+        45.02634963582857,
+        57.14372509080218,
+        57.327236417937364
+      ]
+    },
+    "AURORA_BOOTS": {
+      "name": "Aurora Boots",
+      "hex": "6184FC",
+      "lab": [
+        58.10550901828378,
+        23.832158551198635,
+        -63.68180451363268
+      ]
+    },
+    "BAT_PERSON_BOOTS": {
+      "name": "Bat Person Boots",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "BERSERKER_BOOTS": {
+      "name": "Berserker Boots",
+      "hex": "FFD427",
+      "lab": [
+        86.25259473008522,
+        0.10992508892138098,
+        81.19711248181727
+      ]
+    },
+    "BLAZE_BOOTS": {
+      "name": "Blaze Boots",
+      "hex": "F7DA33",
+      "lab": [
+        87.0733098780137,
+        -5.975312194754223,
+        78.48144276727409
+      ]
+    },
+    "BOUNCY_BOOTS": {
+      "name": "Bouncy Boots",
+      "hex": "ADFF2F",
+      "lab": [
+        91.95763180408608,
+        -52.48377737417426,
+        81.86600466545895
+      ]
+    },
+    "CACTUS_BOOTS": {
+      "name": "Cactus Boots",
+      "hex": "00FF00",
+      "lab": [
+        87.73703347354422,
+        -86.18463649762525,
+        83.18116474777854
+      ]
+    },
+    "CELESTE_BOOTS": {
+      "name": "Celeste Boots",
+      "hex": "FF8EB6",
+      "lab": [
+        72.21740097486312,
+        47.131692705278724,
+        -1.8064851101218249
+      ]
+    },
+    "CHEAP_TUXEDO_BOOTS": {
+      "name": "Cheap Tuxedo Oxfords",
+      "hex": "383838",
+      "lab": [
+        23.520858600077794,
+        0.0017922368535927546,
+        -0.0035460378354112976
+      ]
+    },
+    "CRIMSON_BOOTS": {
+      "name": "Crimson Boots",
+      "hex": "E65300",
+      "lab": [
+        55.08212927978293,
+        54.456118543044994,
+        65.27228501546558
+      ]
+    },
+    "CROPIE_BOOTS": {
+      "name": "Cropie Boots",
+      "hex": "BB6535",
+      "lab": [
+        51.98297173103319,
+        30.667835086561123,
+        41.554535588026184
+      ]
+    },
+    "CRYPT_WITHERLORD_BOOTS": {
+      "name": "Crypt Witherlord Boots",
+      "hex": "450101",
+      "lab": [
+        11.199097597773473,
+        30.874410563556165,
+        17.20153704937414
+      ]
+    },
+    "ELEGANT_TUXEDO_BOOTS": {
+      "name": "Elegant Tuxedo Oxfords",
+      "hex": "191919",
+      "lab": [
+        8.757010824982007,
+        0.0011227090897653058,
+        -0.002221340835867336
+      ]
+    },
+    "EMERALD_ARMOR_BOOTS": {
+      "name": "Emerald Boots",
+      "hex": "00FF00",
+      "lab": [
+        87.73703347354422,
+        -86.18463649762525,
+        83.18116474777854
+      ]
+    },
+    "EXCEEDINGLY_COMFY_SNEAKERS": {
+      "name": "Exceedingly Comfy Sneakers",
+      "hex": "380024",
+      "lab": [
+        8.723060440901413,
+        30.297818310263832,
+        -7.877338394398453
+      ]
+    },
+    "FALLEN_STAR_BOOTS": {
+      "name": "Fallen Star Boots",
+      "hex": "586158",
+      "lab": [
+        40.128621318605326,
+        -5.414812228792004,
+        3.9399492662741897
+      ]
+    },
+    "FANCY_TUXEDO_BOOTS": {
+      "name": "Fancy Tuxedo Oxfords",
+      "hex": "332A2A",
+      "lab": [
+        18.03984197364406,
+        4.145419191703831,
+        1.5385568252424986
+      ]
+    },
+    "FARMER_BOOTS": {
+      "name": "Farmer Boots",
+      "hex": "CC5500",
+      "lab": [
+        51.076128147956155,
+        44.16578531193965,
+        60.78002015986711
+      ]
+    },
+    "FARM_ARMOR_BOOTS": {
+      "name": "Farm Armor Boots",
+      "hex": "FFD700",
+      "lab": [
+        86.9285847161576,
+        -1.9242149651027551,
+        87.1371576065337
+      ]
+    },
+    "FARM_SUIT_BOOTS": {
+      "name": "Farm Suit Boots",
+      "hex": "FFFF00",
+      "lab": [
+        97.13824698129729,
+        -21.555908334832285,
+        94.48248544644461
+      ]
+    },
+    "FERMENTO_BOOTS": {
+      "name": "Fermento Boots",
+      "hex": "83B03B",
+      "lab": [
+        66.66616072331111,
+        -33.1035294081749,
+        52.98918560020611
+      ]
+    },
+    "FERVOR_BOOTS": {
+      "name": "Fervor Boots",
+      "hex": "07A674",
+      "lab": [
+        60.407873091243786,
+        -48.31667886373986,
+        15.910217276681049
+      ]
+    },
+    "FINAL_DESTINATION_BOOTS": {
+      "name": "Final Destination Boots",
+      "hex": "0A0011",
+      "lab": [
+        0.9484635032214648,
+        5.1840596575197795,
+        -6.0692666340116554
+      ]
+    },
+    "FROZEN_BLAZE_BOOTS": {
+      "name": "Frozen Blaze Boots",
+      "hex": "A0DAEF",
+      "lab": [
+        83.88676832332368,
+        -13.515082439038096,
+        -16.22539351981185
+      ]
+    },
+    "GHOST_BOOTS": {
+      "name": "Ghostly Boots",
+      "hex": "808080",
+      "lab": [
+        53.585013452169036,
+        0.003155620347972121,
+        -0.006243566036245873
+      ]
+    },
+    "GLACITE_BOOTS": {
+      "name": "Glacite Boots",
+      "hex": "03FCF8",
+      "lab": [
+        90.05281997412203,
+        -48.733423169596776,
+        -12.091085043751981
+      ]
+    },
+    "GOBLIN_BOOTS": {
+      "name": "Goblin Boots",
+      "hex": "37B042",
+      "lab": [
+        63.55410102304451,
+        -55.326469850365434,
+        45.65984367844453
+      ]
+    },
+    "TANK_WITHER_BOOTS": {
+      "name": "Goldor's Boots",
+      "hex": "88837E",
+      "lab": [
+        55.04471980598457,
+        0.9330607764171384,
+        3.359790107755334
+      ]
+    },
+    "GROWTH_BOOTS": {
+      "name": "Boots of Growth",
+      "hex": "00BE00",
+      "lab": [
+        67.1469688808884,
+        -69.07842887859572,
+        66.67109599315299
+      ]
+    },
+    "GUNTHER_SNEAKERS": {
+      "name": "Gunther's Sneakers",
+      "hex": "4F2886",
+      "lab": [
+        26.451060857062956,
+        38.72742873348137,
+        -46.02926422988579
+      ]
+    },
+    "HEAT_BOOTS": {
+      "name": "Heat Boots",
+      "hex": "B3B3B3",
+      "lab": [
+        72.94360460761935,
+        0.004033515761447948,
+        -0.007980529733631059
+      ]
+    },
+    "HEAVY_BOOTS": {
+      "name": "Heavy Boots",
+      "hex": "FFFFFF",
+      "lab": [
+        100.0,
+        0.00526049995830391,
+        -0.010408184525267927
+      ]
+    },
+    "HOLLOW_BOOTS": {
+      "name": "Hollow Boots",
+      "hex": "E3FFFA",
+      "lab": [
+        97.93461200139863,
+        -9.95406888818523,
+        -0.6943347380196974
+      ]
+    },
+    "HOLY_DRAGON_BOOTS": {
+      "name": "Holy Dragon Boots",
+      "hex": "47D147",
+      "lab": [
+        74.44201250384658,
+        -63.044717352132686,
+        55.688993236456774
+      ]
+    },
+    "KUUDRA_FOLLOWER_BOOTS": {
+      "name": "Kuudra Follower Boots",
+      "hex": "35530A",
+      "lab": [
+        31.727809963591923,
+        -23.297332642820635,
+        35.56558933117701
+      ]
+    },
+    "LAPIS_ARMOR_BOOTS": {
+      "name": "Lapis Armor Boots",
+      "hex": "0000FF",
+      "lab": [
+        32.302586667249486,
+        79.19666178930935,
+        -107.86368104495168
+      ]
+    },
+    "LEAFLET_BOOTS": {
+      "name": "Leaflet Sandals",
+      "hex": "4DCC4D",
+      "lab": [
+        73.08855755423653,
+        -59.45664615483254,
+        51.71545957537804
+      ]
+    },
+    "MAGMA_LORD_BOOTS": {
+      "name": "Magma Lord Boots",
+      "hex": "6F0F08",
+      "lab": [
+        22.78802648884902,
+        40.0744442702792,
+        30.785775691087885
+      ]
+    },
+    "SPEED_WITHER_BOOTS": {
+      "name": "Maxor's Boots",
+      "hex": "8969C8",
+      "lab": [
+        51.372340442960876,
+        33.31504898478854,
+        -45.09150669842899
+      ]
+    },
+    "MELON_BOOTS": {
+      "name": "Melon Boots",
+      "hex": "899E20",
+      "lab": [
+        61.54740376686297,
+        -23.56540938602786,
+        57.8865290112641
+      ]
+    },
+    "MERCENARY_BOOTS": {
+      "name": "Mercenary Boots",
+      "hex": "E0FCF7",
+      "lab": [
+        96.89526361101656,
+        -9.974697320108694,
+        -0.693699535903769
+      ]
+    },
+    "MINERAL_BOOTS": {
+      "name": "Mineral Boots",
+      "hex": "CCE5FF",
+      "lab": [
+        89.90389106409306,
+        -2.870343998501168,
+        -15.348401253706424
+      ]
+    },
+    "MINER_OUTFIT_BOOTS": {
+      "name": "Miner's Outfit Boots",
+      "hex": "7A7964",
+      "lab": [
+        50.37266880379397,
+        -3.4749751775035587,
+        11.677991709800484
+      ]
+    },
+    "MUSHROOM_BOOTS": {
+      "name": "Mushroom Boots",
+      "hex": "FF0000",
+      "lab": [
+        53.23288178584245,
+        80.10930952982204,
+        67.22006831026425
+      ]
+    },
+    "NECROMANCER_LORD_BOOTS": {
+      "name": "Necromancer Lord Boots",
+      "hex": "400352",
+      "lab": [
+        14.198330117416742,
+        38.83042073256279,
+        -32.15146290117068
+      ]
+    },
+    "POWER_WITHER_BOOTS": {
+      "name": "Necron's Boots",
+      "hex": "E76E3C",
+      "lab": [
+        60.30834571899233,
+        43.72749518744262,
+        48.874328763851295
+      ]
+    },
+    "NUTCRACKER_BOOTS": {
+      "name": "Nutcracker Boots",
+      "hex": "46343A",
+      "lab": [
+        23.88047323482597,
+        9.217308429332771,
+        -0.6400235585485414
+      ]
+    },
+    "OLD_DRAGON_BOOTS": {
+      "name": "Old Dragon Boots",
+      "hex": "F0E6AA",
+      "lab": [
+        90.78956433811913,
+        -5.590067184494285,
+        30.520301320788732
+      ]
+    },
+    "PROTECTOR_DRAGON_BOOTS": {
+      "name": "Protector Dragon Boots",
+      "hex": "99978B",
+      "lab": [
+        62.31265521334605,
+        -1.4757686147152116,
+        6.573570077729629
+      ]
+    },
+    "PUMPKIN_BOOTS": {
+      "name": "Pumpkin Boots",
+      "hex": "EDAA36",
+      "lab": [
+        74.20276324921271,
+        14.729787515012527,
+        65.49051270333118
+      ]
+    },
+    "RABBIT_BOOTS": {
+      "name": "Rabbit Boots",
+      "hex": "CBD2DB",
+      "lab": [
+        83.91585032339349,
+        -0.6571563808060454,
+        -5.271555082050461
+      ]
+    },
+    "RANCHERS_BOOTS": {
+      "name": "Rancher's Boots",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "RAMPART_BOOTS": {
+      "name": "Rampart Boots",
+      "hex": "DF2E06",
+      "lab": [
+        49.075098377697344,
+        65.30309560975422,
+        60.11519717478686
+      ]
+    },
+    "REAPER_BOOTS": {
+      "name": "Reaper Boots",
+      "hex": "1B1B1B",
+      "lab": [
+        9.766934231515162,
+        0.0011685082452611573,
+        -0.0023119569494189918
+      ]
+    },
+    "ROTTEN_BOOTS": {
+      "name": "Rotten Boots",
+      "hex": "9E7003",
+      "lab": [
+        50.52773045133627,
+        10.196669866535945,
+        56.541169134890154
+      ]
+    },
+    "SALMON_BOOTS_NEW": {
+      "name": "Salmon Boots",
+      "hex": "C13C0F",
+      "lab": [
+        45.08650239083344,
+        51.378506240008335,
+        52.359766120975905
+      ]
+    },
+    "SHADOW_ASSASSIN_BOOTS": {
+      "name": "Shadow Assassin Boots",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "SHARK_SCALE_BOOTS": {
+      "name": "Shark Scale Boots",
+      "hex": "002CA6",
+      "lab": [
+        25.42597759509095,
+        38.56867487650789,
+        -67.56700551611908
+      ]
+    },
+    "SHIMMERING_LIGHT_SLIPPERS": {
+      "name": "Shimmering Light Slippers",
+      "hex": "07031B",
+      "lab": [
+        1.7110835798405652,
+        5.651757359689174,
+        -12.124430754228676
+      ]
+    },
+    "SKELETON_GRUNT_BOOTS": {
+      "name": "Skeleton Grunt Boots",
+      "hex": "E1EB34",
+      "lab": [
+        89.70690088049841,
+        -23.452875140082206,
+        79.83944009827167
+      ]
+    },
+    "SKELETON_LORD_BOOTS": {
+      "name": "Skeleton Lord Boots",
+      "hex": "268105",
+      "lab": [
+        47.136154080788025,
+        -47.00167976257197,
+        49.83345104922028
+      ]
+    },
+    "SKELETON_MASTER_BOOTS": {
+      "name": "Skeleton Master Boots",
+      "hex": "FF6B0B",
+      "lab": [
+        63.17686893380498,
+        52.865024518610916,
+        70.02226042981627
+      ]
+    },
+    "SKELETON_SOLDIER_BOOTS": {
+      "name": "Skeleton Soldier Boots",
+      "hex": "FFBC0B",
+      "lab": [
+        80.3203400422193,
+        12.03025737914759,
+        81.46451923995207
+      ]
+    },
+    "SLUG_BOOTS": {
+      "name": "Slug Boots",
+      "hex": "276114",
+      "lab": [
+        36.04435430373186,
+        -34.05939273758543,
+        35.85096591383071
+      ]
+    },
+    "SNAKE_IN_A_BOOT": {
+      "name": "Snake-in-a-Boot",
+      "hex": "1A004C",
+      "lab": [
+        6.697140571026537,
+        33.704660630809386,
+        -40.56301254627473
+      ]
+    },
+    "SNOW_SUIT_BOOTS": {
+      "name": "Snow Suit Boots",
+      "hex": "FFFFFF",
+      "lab": [
+        100.0,
+        0.00526049995830391,
+        -0.010408184525267927
+      ]
+    },
+    "SPEEDSTER_BOOTS": {
+      "name": "Speedster Boots",
+      "hex": "E0FCF7",
+      "lab": [
+        96.89526361101656,
+        -9.974697320108694,
+        -0.693699535903769
+      ]
+    },
+    "SPONGE_BOOTS": {
+      "name": "Spongy Shoes",
+      "hex": "FFDC51",
+      "lab": [
+        88.467017525757,
+        -2.4005175862141237,
+        69.7793098470696
+      ]
+    },
+    "SPOOKY_BOOTS": {
+      "name": "Spooky Boots",
+      "hex": "606060",
+      "lab": [
+        40.73054802899536,
+        0.002572681427087664,
+        -0.005090189759549002
+      ]
+    },
+    "SQUASH_BOOTS": {
+      "name": "Squash Boots",
+      "hex": "13561E",
+      "lab": [
+        31.550018562099908,
+        -33.52852515501889,
+        26.252200087178114
+      ]
+    },
+    "SQUID_BOOTS": {
+      "name": "Squid Boots",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "SQUIRE_BOOTS": {
+      "name": "Squire Boots",
+      "hex": "545454",
+      "lab": [
+        35.72414945910933,
+        0.00234564556958472,
+        -0.004640986999870922
+      ]
+    },
+    "STARLIGHT_BOOTS": {
+      "name": "Starlight Boots",
+      "hex": "D400FF",
+      "lab": [
+        53.186226832398404,
+        92.06182158977388,
+        -72.70539842282182
+      ]
+    },
+    "STRONG_DRAGON_BOOTS": {
+      "name": "Strong Dragon Boots",
+      "hex": "F0D124",
+      "lab": [
+        84.09761725612194,
+        -4.803194080961914,
+        79.55050616928497
+      ]
+    },
+    "WISE_WITHER_BOOTS": {
+      "name": "Storm's Boots",
+      "hex": "1CD4E4",
+      "lab": [
+        77.83677207052833,
+        -36.04255856146088,
+        -19.887346906080914
+      ]
+    },
+    "SUPERIOR_DRAGON_BOOTS": {
+      "name": "Superior Dragon Boots",
+      "hex": "F25D18",
+      "lab": [
+        58.762593736836735,
+        54.606190488261156,
+        63.0490040811709
+      ]
+    },
+    "SUPER_HEAVY_BOOTS": {
+      "name": "Super Heavy Boots",
+      "hex": "E6E6E6",
+      "lab": [
+        91.29298657001617,
+        0.004865644408436065,
+        -0.00962694140078657
+      ]
+    },
+    "TARANTULA_BOOTS": {
+      "name": "Tarantula Boots",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "TERROR_BOOTS": {
+      "name": "Terror Boots",
+      "hex": "7C44EC",
+      "lab": [
+        44.907219289575785,
+        60.03243351303894,
+        -76.06219813753496
+      ]
+    },
+    "THORNS_BOOTS": {
+      "name": "Spirit Boots",
+      "hex": "BFBFBF",
+      "lab": [
+        77.34033035450726,
+        0.004232903482281891,
+        -0.008375029155027747
+      ]
+    },
+    "THUNDER_BOOTS": {
+      "name": "Thunder Boots",
+      "hex": "24DDE5",
+      "lab": [
+        80.59687333371213,
+        -39.415453323664366,
+        -16.24656210960289
+      ]
+    },
+    "UNSTABLE_DRAGON_BOOTS": {
+      "name": "Unstable Dragon Boots",
+      "hex": "B212E3",
+      "lab": [
+        46.23593574840758,
+        81.1696142421287,
+        -68.49354084172239
+      ]
+    },
+    "WEREWOLF_BOOTS": {
+      "name": "Werewolf Boots",
+      "hex": "1D1105",
+      "lab": [
+        6.079748401872788,
+        3.883716251794414,
+        7.124160757492093
+      ]
+    },
+    "WISE_DRAGON_BOOTS": {
+      "name": "Wise Dragon Boots",
+      "hex": "29F0E9",
+      "lab": [
+        86.34275245146114,
+        -46.355649910617636,
+        -9.759009476974455
+      ]
+    },
+    "WITHER_BOOTS": {
+      "name": "Wither Boots",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "WYLD_BOOTS": {
+      "name": "Wyld Boots",
+      "hex": "154918",
+      "lab": [
+        26.7075814827868,
+        -28.627242591600794,
+        23.874443730780147
+      ]
+    },
+    "YOUNG_DRAGON_BOOTS": {
+      "name": "Young Dragon Boots",
+      "hex": "DDE4F0",
+      "lab": [
+        90.39071476187034,
+        -0.08048808345884062,
+        -6.644486093630331
+      ]
+    },
+    "ZOMBIE_COMMANDER_BOOTS": {
+      "name": "Zombie Commander Boots",
+      "hex": "D51230",
+      "lab": [
+        45.34818601259792,
+        69.01313562925165,
+        38.38122934958849
+      ]
+    },
+    "ZOMBIE_LORD_BOOTS": {
+      "name": "Zombie Lord Boots",
+      "hex": "9B01C1",
+      "lab": [
+        39.31056706556311,
+        73.86430102207986,
+        -60.287468942800174
+      ]
+    },
+    "ZOMBIE_SOLDIER_BOOTS": {
+      "name": "Zombie Soldier Boots",
+      "hex": "D07F00",
+      "lab": [
+        60.41685447746406,
+        24.162004871133014,
+        66.698738434279
+      ]
+    }
   },
   "OTHER": {
-    "CARMINE_DYE": "960018",
-    "NECRON_DYE": "E7413C",
-    "FLAME_DYE": "E25822",
-    "MANGO_DYE": "FDBE02",
-    "NYANZA_DYE": "E9FFDB",
-    "CELADON_DYE": "ACE1AF",
-    "EMERALD_DYE": "50C878",
-    "HOLLY_DYE": "3C6746",
-    "AQUAMARINE_DYE": "7FFFD4",
-    "CELESTE_DYE": "B2FFFF",
-    "ICEBERG_DYE": "71A6D2",
-    "TENTACLE_DYE": "324D6C",
-    "BINGO_BLUE_DYE": "002FA7",
-    "DARK_PURPLE_DYE": "301934",
-    "MIDNIGHT_DYE": "702670",
-    "BYZANTIUM_DYE": "702963",
-    "CYCLAMEN_DYE": "F56FA1",
-    "NADESHIKO_DYE": "F6ADC6",
-    "WILD_STRAWBERRY_DYE": "FF43A4",
-    "BRICK_RED_DYE": "CB4154",
-    "BONE_DYE": "E3DAC9",
-    "PURE_WHITE_DYE": "FFFFFF",
-    "PURE_BLACK_DYE": "000000",
-    "BLEACHED": "A06540",
-    "EXOTIC_RED": "993333",
-    "EXOTIC_ORANGE": "D87F33",
-    "EXOTIC_YELLOW": "E5E533",
-    "EXOTIC_LIME": "7FCC19",
-    "EXOTIC_GREEN": "667F33",
-    "EXOTIC_LIGHT_BLUE": "6699D8",
-    "EXOTIC_CYAN": "4C7F99",
-    "EXOTIC_DARK_BLUE": "334CB2",
-    "EXOTIC_PINK": "F27FA5",
-    "EXOTIC_PURPLE": "7F3FB2",
-    "EXOTIC_MAGENTA": "B24CD8",
-    "EXOTIC_BROWN": "664C33",
-    "EXOTIC_WHITE": "FFFFFF",
-    "EXOTIC_LIGHT_GRAY": "999999",
-    "EXOTIC_DARK_GRAY": "4C4C4C",
-    "EXOTIC_BLACK": "191919,",
-    "PURE_RED": "FF0000",
-    "PURE_GREEN": "00FF00",
-    "PURE_BLUE": "0000FF",
-    "PURE_YELLOW": "FFFF00",
-    "PURE_MAGENTA": "FF00FF",
-    "PURE_CYAN": "00FFFF",
-    "CRYSTAL_1F0030": "1F0030",
-    "CRYSTAL_46085E": "46085E",
-    "CRYSTAL_54146E": "54146E",
-    "CRYSTAL_5D1C78": "5D1C78",
-    "CRYSTAL_63237D": "63237D",
-    "CRYSTAL_6A2C82": "6A2C82",
-    "CRYSTAL_7E4196": "7E4196",
-    "CRYSTAL_8E51A6": "8E51A6",
-    "CRYSTAL_9C64B3": "9C64B3",
-    "CRYSTAL_A875BD": "A875BD",
-    "CRYSTAL_B88BC9": "B88BC9",
-    "CRYSTAL_C6A3D4": "C6A3D4",
-    "CRYSTAL_D9C1E3": "D9C1E3",
-    "CRYSTAL_E5D1ED": "E5D1ED",
-    "CRYSTAL_EFE1F5": "EFE1F5",
-    "CRYSTAL_FCF3FF": "FCF3FF",
-    "FAIRY_FFCCE5": "FFCCE5",
-    "FAIRY_FF99CC": "FF99CC",
-    "FAIRY_FF66B2": "FF66B2",
-    "FAIRY_FF3399": "FF3399",
-    "FAIRY_FF007F": "FF007F",
-    "FAIRY_CC0066": "CC0066",
-    "FAIRY_99004C": "99004C",
-    "FAIRY_660033": "660033",
-    "FAIRY_660066": "660066",
-    "FAIRY_990099": "990099",
-    "FAIRY_CC00CC": "CC00CC",
-    "FAIRY_FF00FF": "FF00FF",
-    "FAIRY_FF33FF": "FF33FF",
-    "FAIRY_FF66FF": "FF66FF",
-    "FAIRY_FF99FF": "FF99FF",
-    "FAIRY_FFCCFF": "FFCCFF",
-    "FAIRY_E5CCFF": "E5CCFF",
-    "FAIRY_CC99FF": "CC99FF",
-    "FAIRY_B266FF": "B266FF",
-    "FAIRY_9933FF": "9933FF",
-    "FAIRY_7F00FF": "7F00FF",
-    "FAIRY_6600CC": "6600CC",
-    "FAIRY_4C0099": "4C0099",
-    "FAIRY_330066": "330066"
+    "CARMINE_DYE": {
+      "name": "Carmine Dye",
+      "hex": "960018",
+      "lab": [
+        30.75965240401549,
+        54.35310760705095,
+        33.13998044773774
+      ]
+    },
+    "NECRON_DYE": {
+      "name": "Necron Dye",
+      "hex": "E7413C",
+      "lab": [
+        53.05414125591932,
+        62.976860684034406,
+        41.02472185073592
+      ]
+    },
+    "FLAME_DYE": {
+      "name": "Flame Dye",
+      "hex": "E25822",
+      "lab": [
+        55.342917349659714,
+        51.355395389589496,
+        55.690054631851915
+      ]
+    },
+    "MANGO_DYE": {
+      "name": "Mango Dye",
+      "hex": "FDBE02",
+      "lab": [
+        80.57948822734913,
+        10.067975553966935,
+        82.43196436060691
+      ]
+    },
+    "NYANZA_DYE": {
+      "name": "Nyanza Dye",
+      "hex": "E9FFDB",
+      "lab": [
+        97.61510702063364,
+        -13.44228477731807,
+        14.800114781600548
+      ]
+    },
+    "CELADON_DYE": {
+      "name": "Celadon Dye",
+      "hex": "ACE1AF",
+      "lab": [
+        84.85146237506622,
+        -26.616006885019804,
+        19.050241355371522
+      ]
+    },
+    "EMERALD_DYE": {
+      "name": "Emerald Dye",
+      "hex": "50C878",
+      "lab": [
+        72.47517570451704,
+        -51.24956261121649,
+        30.251909270553345
+      ]
+    },
+    "HOLLY_DYE": {
+      "name": "Holly Dye",
+      "hex": "3C6746",
+      "lab": [
+        39.75399754455666,
+        -22.85949208319471,
+        14.050906317114398
+      ]
+    },
+    "AQUAMARINE_DYE": {
+      "name": "Aquamarine Dye",
+      "hex": "7FFFD4",
+      "lab": [
+        92.03615371984776,
+        -45.52073061551781,
+        9.711681469210287
+      ]
+    },
+    "CELESTE_DYE": {
+      "name": "Celeste Dye",
+      "hex": "B2FFFF",
+      "lab": [
+        95.24718239458254,
+        -23.361668255793887,
+        -7.5472253511913445
+      ]
+    },
+    "ICEBERG_DYE": {
+      "name": "Iceberg Dye",
+      "hex": "71A6D2",
+      "lab": [
+        66.08694103499653,
+        -5.701089628040168,
+        -27.83634591906705
+      ]
+    },
+    "TENTACLE_DYE": {
+      "name": "Tentacle Dye",
+      "hex": "324D6C",
+      "lab": [
+        31.96251196442398,
+        -0.43605890112047296,
+        -21.056433432006806
+      ]
+    },
+    "BINGO_BLUE_DYE": {
+      "name": "Bingo Blue Dye",
+      "hex": "002FA7",
+      "lab": [
+        26.224573318872977,
+        37.043114151099424,
+        -66.85088130649005
+      ]
+    },
+    "DARK_PURPLE_DYE": {
+      "name": "Dark Purple Dye",
+      "hex": "301934",
+      "lab": [
+        13.056024364589309,
+        16.95852270072201,
+        -13.110592004708167
+      ]
+    },
+    "MIDNIGHT_DYE": {
+      "name": "Midnight Dye",
+      "hex": "702670",
+      "lab": [
+        29.41454108770997,
+        42.626280270564116,
+        -27.11710665348145
+      ]
+    },
+    "BYZANTIUM_DYE": {
+      "name": "Byzantium Dye",
+      "hex": "702963",
+      "lab": [
+        29.238915195527873,
+        38.88080616398901,
+        -19.040297722845047
+      ]
+    },
+    "CYCLAMEN_DYE": {
+      "name": "Cyclamen Dye",
+      "hex": "F56FA1",
+      "lab": [
+        64.44698105256249,
+        56.2630792266749,
+        -1.5304120417048983
+      ]
+    },
+    "NADESHIKO_DYE": {
+      "name": "Nadeshiko Dye",
+      "hex": "F6ADC6",
+      "lab": [
+        78.20282141839822,
+        30.23284721258085,
+        -1.9457405564559105
+      ]
+    },
+    "WILD_STRAWBERRY_DYE": {
+      "name": "Wild Strawberry Dye",
+      "hex": "FF43A4",
+      "lab": [
+        59.84774144877221,
+        76.55739532103783,
+        -9.897486949721145
+      ]
+    },
+    "BRICK_RED_DYE": {
+      "name": "Brick Red Dye",
+      "hex": "CB4154",
+      "lab": [
+        48.40736582056192,
+        55.54586595420147,
+        20.186315285837686
+      ]
+    },
+    "BONE_DYE": {
+      "name": "Bone Dye",
+      "hex": "E3DAC9",
+      "lab": [
+        87.33454050017009,
+        0.22778905663900506,
+        9.453645432369328
+      ]
+    },
+    "PURE_WHITE_DYE": {
+      "name": "Pure White Dye",
+      "hex": "FFFFFF",
+      "lab": [
+        100.0,
+        0.00526049995830391,
+        -0.010408184525267927
+      ]
+    },
+    "PURE_BLACK_DYE": {
+      "name": "Pure Black Dye",
+      "hex": "000000",
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "PURE_YELLOW_DYE": {
+      "name": "Pure Yellow Dye",
+      "hex": "FFF700",
+      "lab": [
+        95.06887397025419,
+        -17.73469013206541,
+        92.9731446532294
+      ]
+    },
+    "PURE_BLUE_DYE": {
+      "name": "Pure Blue Dye",
+      "hex": "0013FF",
+      "lab": [
+        33.31964871384935,
+        76.04345055402042,
+        -106.16214524937261
+      ]
+    },
+    "BLEACHED": {
+      "name": "Bleached",
+      "hex": "A06540",
+      "lab": [
+        48.44987232168161,
+        19.9716651267976,
+        30.609674074004424
+      ]
+    },
+    "EXOTIC_RED": {
+      "name": "Exotic Red",
+      "hex": "993333",
+      "lab": [
+        36.703941706193916,
+        42.53741176384845,
+        23.529517155360015
+      ]
+    },
+    "EXOTIC_ORANGE": {
+      "name": "Exotic Orange",
+      "hex": "D87F33",
+      "lab": [
+        61.6686200212221,
+        28.67136244827284,
+        53.78460802297763
+      ]
+    },
+    "EXOTIC_YELLOW": {
+      "name": "Exotic Yellow",
+      "hex": "E5E533",
+      "lab": [
+        88.41701662805634,
+        -18.95072802899278,
+        79.08741666563017
+      ]
+    },
+    "EXOTIC_LIME": {
+      "name": "Exotic Lime",
+      "hex": "7FCC19",
+      "lab": [
+        74.67832863183544,
+        -48.463997307498786,
+        70.76032615447822
+      ]
+    },
+    "EXOTIC_GREEN": {
+      "name": "Exotic Green",
+      "hex": "667F33",
+      "lab": [
+        49.78897153069249,
+        -21.629064388403673,
+        37.60688656815727
+      ]
+    },
+    "EXOTIC_LIGHT_BLUE": {
+      "name": "Exotic Light Blue",
+      "hex": "6699D8",
+      "lab": [
+        62.13878657607532,
+        0.8256272681528842,
+        -37.33362312189592
+      ]
+    },
+    "EXOTIC_CYAN": {
+      "name": "Exotic Cyan",
+      "hex": "4C7F99",
+      "lab": [
+        50.70492739647253,
+        -9.617755670701445,
+        -19.262612323665973
+      ]
+    },
+    "EXOTIC_DARK_BLUE": {
+      "name": "Exotic Dark Blue",
+      "hex": "334CB2",
+      "lab": [
+        36.15134488222463,
+        25.94186704931531,
+        -57.09304181001663
+      ]
+    },
+    "EXOTIC_PINK": {
+      "name": "Exotic Pink",
+      "hex": "F27FA5",
+      "lab": [
+        67.10607574353138,
+        48.08151728038007,
+        0.038081047529447964
+      ]
+    },
+    "EXOTIC_PURPLE": {
+      "name": "Exotic Purple",
+      "hex": "7F3FB2",
+      "lab": [
+        40.050422108084526,
+        48.51264362409377,
+        -50.45740221803053
+      ]
+    },
+    "EXOTIC_MAGENTA": {
+      "name": "Exotic Magenta",
+      "hex": "B24CD8",
+      "lab": [
+        51.372433997786004,
+        62.22321814624132,
+        -53.94428250036461
+      ]
+    },
+    "EXOTIC_BROWN": {
+      "name": "Exotic Brown",
+      "hex": "664C33",
+      "lab": [
+        34.4628446757469,
+        7.490458533809447,
+        19.084514731050994
+      ]
+    },
+    "EXOTIC_WHITE": {
+      "name": "Exotic White",
+      "hex": "FFFFFF",
+      "lab": [
+        100.0,
+        0.00526049995830391,
+        -0.010408184525267927
+      ]
+    },
+    "EXOTIC_LIGHT_GRAY": {
+      "name": "Exotic Light Gray",
+      "hex": "999999",
+      "lab": [
+        63.22259455235917,
+        0.00359267633914806,
+        -0.007108305023040273
+      ]
+    },
+    "EXOTIC_DARK_GRAY": {
+      "name": "Exotic Dark Gray",
+      "hex": "4C4C4C",
+      "lab": [
+        32.318604318149674,
+        0.0021912070344853873,
+        -0.004335421980583565
+      ]
+    },
+    "EXOTIC_BLACK": {
+      "name": "Exotic Black",
+      "hex": "191919,",
+      "lab": [
+        8.757010824982007,
+        0.0011227090897653058,
+        -0.002221340835867336
+      ]
+    },
+    "PURE_RED": {
+      "name": "Pure Red",
+      "hex": "FF0000",
+      "lab": [
+        53.23288178584245,
+        80.10930952982204,
+        67.22006831026425
+      ]
+    },
+    "PURE_GREEN": {
+      "name": "Pure Green",
+      "hex": "00FF00",
+      "lab": [
+        87.73703347354422,
+        -86.18463649762525,
+        83.18116474777854
+      ]
+    },
+    "PURE_BLUE": {
+      "name": "Pure Blue",
+      "hex": "0000FF",
+      "lab": [
+        32.302586667249486,
+        79.19666178930935,
+        -107.86368104495168
+      ]
+    },
+    "PURE_YELLOW": {
+      "name": "Pure Yellow",
+      "hex": "FFFF00",
+      "lab": [
+        97.13824698129729,
+        -21.555908334832285,
+        94.48248544644461
+      ]
+    },
+    "PURE_MAGENTA": {
+      "name": "Pure Magenta",
+      "hex": "FF00FF",
+      "lab": [
+        60.319933664076004,
+        98.25421868616114,
+        -60.84298422386232
+      ]
+    },
+    "PURE_CYAN": {
+      "name": "Pure Cyan",
+      "hex": "00FFFF",
+      "lab": [
+        91.11652110946342,
+        -48.079618466228716,
+        -14.138127754846131
+      ]
+    },
+    "CRYSTAL_1F0030": {
+      "name": "Crystal 1F0030",
+      "hex": "1F0030",
+      "lab": [
+        4.558974614304276,
+        24.432820659316732,
+        -23.83732827207895
+      ]
+    },
+    "CRYSTAL_46085E": {
+      "name": "Crystal 46085E",
+      "hex": "46085E",
+      "lab": [
+        16.911747046737993,
+        40.785506287369905,
+        -35.79667286859512
+      ]
+    },
+    "CRYSTAL_54146E": {
+      "name": "Crystal 54146E",
+      "hex": "54146E",
+      "lab": [
+        21.98378521196306,
+        43.035522441091736,
+        -37.97694709307682
+      ]
+    },
+    "CRYSTAL_5D1C78": {
+      "name": "Crystal 5D1C78",
+      "hex": "5D1C78",
+      "lab": [
+        25.301881789617866,
+        43.97740011554027,
+        -38.96493326569789
+      ]
+    },
+    "CRYSTAL_63237D": {
+      "name": "Crystal 63237D",
+      "hex": "63237D",
+      "lab": [
+        27.669658658042174,
+        43.38813787339685,
+        -38.27147346523743
+      ]
+    },
+    "CRYSTAL_6A2C82": {
+      "name": "Crystal 6A2C82",
+      "hex": "6A2C82",
+      "lab": [
+        30.585920616326796,
+        41.92540750061502,
+        -36.675258979019276
+      ]
+    },
+    "CRYSTAL_7E4196": {
+      "name": "Crystal 7E4196",
+      "hex": "7E4196",
+      "lab": [
+        38.58280557673956,
+        40.803614498188864,
+        -36.06512138771869
+      ]
+    },
+    "CRYSTAL_8E51A6": {
+      "name": "Crystal 8E51A6",
+      "hex": "8E51A6",
+      "lab": [
+        44.78545558878296,
+        40.1723988206108,
+        -35.69682434078536
+      ]
+    },
+    "CRYSTAL_9C64B3": {
+      "name": "Crystal 9C64B3",
+      "hex": "9C64B3",
+      "lab": [
+        51.19453045725257,
+        36.61648295549597,
+        -33.13130965880309
+      ]
+    },
+    "CRYSTAL_A875BD": {
+      "name": "Crystal A875BD",
+      "hex": "A875BD",
+      "lab": [
+        56.80308649851014,
+        32.92059477732223,
+        -30.04823524480278
+      ]
+    },
+    "CRYSTAL_B88BC9": {
+      "name": "Crystal B88BC9",
+      "hex": "B88BC9",
+      "lab": [
+        64.05764496274273,
+        28.184016885692774,
+        -25.498984729555985
+      ]
+    },
+    "CRYSTAL_C6A3D4": {
+      "name": "Crystal C6A3D4",
+      "hex": "C6A3D4",
+      "lab": [
+        71.52347938801249,
+        21.65980071725698,
+        -20.08019696590264
+      ]
+    },
+    "CRYSTAL_D9C1E3": {
+      "name": "Crystal D9C1E3",
+      "hex": "D9C1E3",
+      "lab": [
+        80.98152543907712,
+        14.55715130095625,
+        -13.792413390934799
+      ]
+    },
+    "CRYSTAL_E5D1ED": {
+      "name": "Crystal E5D1ED",
+      "hex": "E5D1ED",
+      "lab": [
+        86.19280284360644,
+        11.904806331522632,
+        -11.229447768021616
+      ]
+    },
+    "CRYSTAL_EFE1F5": {
+      "name": "Crystal EFE1F5",
+      "hex": "EFE1F5",
+      "lab": [
+        91.14087638032937,
+        8.302400148978762,
+        -8.00125451251521
+      ]
+    },
+    "CRYSTAL_FCF3FF": {
+      "name": "Crystal FCF3FF",
+      "hex": "FCF3FF",
+      "lab": [
+        96.8271016837463,
+        5.110828516815047,
+        -4.689434025946415
+      ]
+    },
+    "FAIRY_FFCCE5": {
+      "name": "Fairy FFCCE5",
+      "hex": "FFCCE5",
+      "lab": [
+        87.04729528029353,
+        21.890581699845256,
+        -5.472469397678381
+      ]
+    },
+    "FAIRY_FF99CC": {
+      "name": "Fairy FF99CC",
+      "hex": "FF99CC",
+      "lab": [
+        75.07783971210465,
+        44.59362871465422,
+        -9.732723201907234
+      ]
+    },
+    "FAIRY_FF66B2": {
+      "name": "Fairy FF66B2",
+      "hex": "FF66B2",
+      "lab": [
+        64.94438678573654,
+        65.28722110404856,
+        -10.326495025275783
+      ]
+    },
+    "FAIRY_FF3399": {
+      "name": "Fairy FF3399",
+      "hex": "FF3399",
+      "lab": [
+        57.968226984119326,
+        79.82307496451863,
+        -6.269827735775202
+      ]
+    },
+    "FAIRY_FF007F": {
+      "name": "Fairy FF007F",
+      "hex": "FF007F",
+      "lab": [
+        54.857758849253244,
+        84.48066810163257,
+        4.62720489978099
+      ]
+    },
+    "FAIRY_CC0066": {
+      "name": "Fairy CC0066",
+      "hex": "CC0066",
+      "lab": [
+        43.93992161580645,
+        71.53550691218958,
+        2.8957177213392526
+      ]
+    },
+    "FAIRY_99004C": {
+      "name": "Fairy 99004C",
+      "hex": "99004C",
+      "lab": [
+        32.46728633666642,
+        57.89393154873032,
+        1.637528893944118
+      ]
+    },
+    "FAIRY_660033": {
+      "name": "Fairy 660033",
+      "hex": "660033",
+      "lab": [
+        20.297605941209518,
+        43.47927144342687,
+        -0.41675135093035554
+      ]
+    },
+    "FAIRY_660066": {
+      "name": "Fairy 660066",
+      "hex": "660066",
+      "lab": [
+        22.94441045579123,
+        50.13700140738003,
+        -31.046858103922215
+      ]
+    },
+    "FAIRY_990099": {
+      "name": "Fairy 990099",
+      "hex": "990099",
+      "lab": [
+        36.12295828389689,
+        67.10305284510837,
+        -41.5529230217468
+      ]
+    },
+    "FAIRY_CC00CC": {
+      "name": "Fairy CC00CC",
+      "hex": "CC00CC",
+      "lab": [
+        48.507306495073536,
+        83.04665236109265,
+        -51.42584437610736
+      ]
+    },
+    "FAIRY_FF00FF": {
+      "name": "Fairy FF00FF",
+      "hex": "FF00FF",
+      "lab": [
+        60.319933664076004,
+        98.25421868616114,
+        -60.84298422386232
+      ]
+    },
+    "FAIRY_FF33FF": {
+      "name": "Fairy FF33FF",
+      "hex": "FF33FF",
+      "lab": [
+        62.37881583354077,
+        92.20439883743059,
+        -57.553830300319376
+      ]
+    },
+    "FAIRY_FF66FF": {
+      "name": "Fairy FF66FF",
+      "hex": "FF66FF",
+      "lab": [
+        68.00789353962949,
+        76.2366443707504,
+        -48.62975612358029
+      ]
+    },
+    "FAIRY_FF99FF": {
+      "name": "Fairy FF99FF",
+      "hex": "FF99FF",
+      "lab": [
+        76.83772427868277,
+        52.83082717092669,
+        -34.84335811089609
+      ]
+    },
+    "FAIRY_FFCCFF": {
+      "name": "Fairy FFCCFF",
+      "hex": "FFCCFF",
+      "lab": [
+        87.80744489059285,
+        26.369739685322134,
+        -18.098120380168538
+      ]
+    },
+    "FAIRY_E5CCFF": {
+      "name": "Fairy E5CCFF",
+      "hex": "E5CCFF",
+      "lab": [
+        85.53612597190926,
+        18.04474294327063,
+        -21.75039651149213
+      ]
+    },
+    "FAIRY_CC99FF": {
+      "name": "Fairy CC99FF",
+      "hex": "CC99FF",
+      "lab": [
+        71.44612815525062,
+        38.067954851905895,
+        -43.64502689759644
+      ]
+    },
+    "FAIRY_B266FF": {
+      "name": "Fairy B266FF",
+      "hex": "B266FF",
+      "lab": [
+        58.2148050193551,
+        58.39507897744689,
+        -64.81123936400263
+      ]
+    },
+    "FAIRY_9933FF": {
+      "name": "Fairy 9933FF",
+      "hex": "9933FF",
+      "lab": [
+        47.44324362431051,
+        75.71119007989569,
+        -82.43335064201187
+      ]
+    },
+    "FAIRY_7F00FF": {
+      "name": "Fairy 7F00FF",
+      "hex": "7F00FF",
+      "lab": [
+        40.78700884794503,
+        83.10852255459103,
+        -93.50954337949518
+      ]
+    },
+    "FAIRY_6600CC": {
+      "name": "Fairy 6600CC",
+      "hex": "6600CC",
+      "lab": [
+        32.22309763881774,
+        70.37946443528372,
+        -78.65615187974727
+      ]
+    },
+    "FAIRY_4C0099": {
+      "name": "Fairy 4C0099",
+      "hex": "4C0099",
+      "lab": [
+        23.123066831464634,
+        56.96289042260633,
+        -63.289038170605025
+      ]
+    },
+    "FAIRY_330066": {
+      "name": "Fairy 330066",
+      "hex": "330066",
+      "lab": [
+        13.609578399716938,
+        42.79295511742076,
+        -46.64985708085442
+      ]
+    }
   }
 }
