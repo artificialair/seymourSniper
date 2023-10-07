@@ -890,6 +890,28 @@ async def earliest_known(inter: disnake.AppCommandInteraction, item_id: str):
 
 
 @bot.slash_command(
+    name="skyblock_time",
+    description="Shows the current calendar date in SkyBlock",
+    dm_permission=False
+)
+async def estimate_skyblock_time(inter: disnake.AppCommandInteraction):
+    current_epoch = int(time.time())
+    skyblock_epoch = current_epoch - 1560275700
+
+    skyblock_year = int(skyblock_epoch / 446400)
+    skyblock_month = int((skyblock_epoch / 37200) - (skyblock_year * 12))
+    skyblock_day = int((skyblock_epoch / 1200) - (skyblock_year * 372) - (skyblock_month * 31))
+
+    display_month = ["Spring", "Summer", "Autumn", "Winter"][int(skyblock_month/3)]
+    if skyblock_month % 3 == 0:
+        display_month = "Early " + display_month
+    elif skyblock_month % 3 == 2:
+        display_month = "Late " + display_month
+
+    await inter.response.send_message(f"It is currently {display_month} {skyblock_day + 1} of SkyBlock Year {skyblock_year + 1}")
+
+
+@bot.slash_command(
     name="find_closest_hex",
     description="does absolutely nothing!",
     dm_permission=False
